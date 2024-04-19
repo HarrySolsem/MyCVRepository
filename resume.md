@@ -85,13 +85,13 @@ product development, operations of IT-systems and working in project teams. More
 ## EDUCATION
 
 ### Project management, BI Norwegian Business School, 2018.08 - 2019.12
-- Module based 30 credit study in project management.
+Module based 30 credit study in project management.
 
 ### Various courses, Agder College, 1999.08 - 2000.05
-- Bachelor level classes in various topics in software design, 33 credits.
+Bachelor level classes in various topics in software design, 33 credits.
 
 ### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.05
-- Software design and related subjects, 120 credits
+Software design and related subjects, 120 credits
 
 ***
 
