@@ -58,7 +58,7 @@ innføring av Scrum som arbeidsmetodikk.
 ### Arkitekt, Web Services Technology AS, Bergen 2015.5 - 2017.10
 _WST var et programvarehus som leverte portalløsning til fagsystem innen forsikring._
 Ansvar for design, implementasjon og vedlikehold av CI verdikjede bestående av TeamCity og OctoDeploy.
-Portering av Java applikasjon til C#, JavaScript, XSL/XML. Innføring og opplæring av mine kollegaer ved overgang
+Portering av Java applikasjon til C#, JavaScript, XSL//XML. Innføring og opplæring av mine kollegaer ved overgang
 fra Java til Microsoft teknologi.
 
 ### Prosjektleder, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.05
