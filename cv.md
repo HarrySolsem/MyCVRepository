@@ -1,11 +1,9 @@
-﻿# HARRY SOLSEM
-
-```
+﻿```
+# HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norge
 +47 91 60 46 00
 Født: 13 juni 1970
-<harry.solsem@solsem.no>
-Min LinkedIN profil [LinkedIN](https://bit.ly/solsemlinkedin)
+harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
@@ -30,6 +28,7 @@ tilrettelegging av læring hos mine medarbeidere.
 _Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger._
 
 I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.  
+
 
 ### Konsulent, Stoffskifteforbundet, Oslo 2023.05 – 2023.05
 _Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer_
