@@ -57,7 +57,7 @@ the Microsoft stack. Advisor as agile coach on initial use of Scrum as methodolo
 ### Architect, Web Services Technology AS, Bergen 2015.5 - 2017.10
 _WST was a software house building a portal solution for an insurance specialist system._
 Accountable for design, implementation and maintenance of CI values chain built using TeamCity and
-OctoDeploy. Consulting on porting of application from Java into C#, Javascript, XSL//XML. Supporting the transition
+OctoDeploy. Consulting on porting of application from Java into C#, Javascript, XSL/XML. Supporting the transition
 and training of my colleagues on transition from Java to Microsoft technologies and tools.
 
 ### Project manager, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.05
