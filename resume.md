@@ -119,11 +119,11 @@ Additional boardmember competency from sportsclubs and house ownership organizat
 - Norwegian, native language
 - English, C2 level
 
-- ***
+***
 
-## OTHER COMPETENCIES
+### OTHER COMPETENCIES
 
-### METHODOLOGIES
+#### METHODOLOGIES
 - Scrum
 - Kanban
 - Lean
@@ -132,7 +132,7 @@ Additional boardmember competency from sportsclubs and house ownership organizat
 - Prince2 Agile
 - ITIL v2
 
-### PROGRAMMING LANGUAGES
+#### PROGRAMMING LANGUAGES
 - Turbo Pascal
 - Assembler
 - Ada
@@ -147,11 +147,16 @@ Additional boardmember competency from sportsclubs and house ownership organizat
 - SQL
 - HTML
 
-### TOOLS
+#### TOOLS
 - Microsoft Visual Studio
 - Microsoft Visual Studio Code
 - Sql Management Studio
+- TeamCity
+- Octopus Deploy
+- Team Foundation Server
+- Fiddler
+- Postman
 
-### FRAMEWORKS
+#### FRAMEWORKS
 - Microsoft Foundation Classes
 - Microsoft.NET

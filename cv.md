@@ -131,9 +131,9 @@ Linje for administrativ databehandling, 120 studiepoeng
 
 ***
 
-## ANNEN KOMPETANSE
+### ANNEN KOMPETANSE
 
-### METODIKKER
+#### METODIKKER
 - Scrum
 - Kanban
 - Lean
@@ -142,7 +142,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 - Prince2 Agile
 - ITIL v2
 
-### PROGRAMMERINGSSPRÅK
+#### PROGRAMMERINGSSPRÅK
 - Turbo Pascal
 - Assembler
 - Ada
@@ -157,11 +157,16 @@ Linje for administrativ databehandling, 120 studiepoeng
 - SQL
 - HTML
 
-### VERKTØY
+#### VERKTØY
 - Microsoft Visual Studio
 - Microsoft Visual Studio Code
 - Sql Management Studio
+- TeamCity
+- Octopus Deploy
+- Team Foundation Server
+- Fiddler
+- Postman
 
-### RAMMEVERK
+#### RAMMEVERK
 - Microsoft Foundation Classes
 - Microsoft.NET
