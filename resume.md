@@ -1,4 +1,4 @@
-﻿```
+```
 # HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norway
 +47 91 60 46 00
@@ -85,33 +85,33 @@ product development, operations of IT-systems and working in project teams. More
 ## EDUCATION
 
 ### Project management, BI Norwegian Business School, 2018.08 - 2019.12
-Module based 30 credit study in project management.
+- Module based 30 credit study in project management.
 
 ### Various courses, Agder College, 1999.08 - 2000.05
-Bachelor level classes in various topics in software design, 33 credits.
+- Bachelor level classes in various topics in software design, 33 credits.
 
 ### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.05
-Software design and related subjects, 120 credits
+- Software design and related subjects, 120 credits
 
 ***
 
 ## SERTIFICATIONS
-Prosci Change Manager Practitioner, 2024
-Scrum Product Owner, SCPO AgileLean House AS, 2021
-Prince2Agile Foundation, Holte Academy, 2019
-Lean Six Sigma, Yellow Belt, DNB, 2018
-Prince2 Practitioner, Holte Consulting AS, 2016
-Prince2 Foundation, Holte Consulting AS, 2014
-ITIL Foundation, Glasspaper, 2012
-Scrum Master,PSM ScrumAlliance, 2010
+- Prosci Change Manager Practitioner, 2024
+- Scrum Product Owner, SCPO AgileLean House AS, 2021
+- Prince2Agile Foundation, Holte Academy, 2019
+- Lean Six Sigma, Yellow Belt, DNB, 2018
+- Prince2 Practitioner, Holte Consulting AS, 2016
+- Prince2 Foundation, Holte Consulting AS, 2014
+- ITIL Foundation, Glasspaper, 2012
+- Scrum Master,PSM ScrumAlliance, 2010
 
 ***
 
 ## ELECTED POSITIONS
-Member of the board, Norwegian Thyroid Organization, 2020 – td
-Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
-Member of national tariff committee, NITO, 2014 – 2023
-Additional boardmember competency from sportsclubs and house ownership organizations
+- Member of the board, Norwegian Thyroid Organization, 2020 – td
+- Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
+- Member of national tariff committee, NITO, 2014 – 2023
+- Additional boardmember competency from sportsclubs and house ownership organizations
 
 ***
 
