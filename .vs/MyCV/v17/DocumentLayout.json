@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\resume.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resume.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cv.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "cv.md",
-              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md",
-              "RelativeDocumentMoniker": "cv.md",
-              "ToolTip": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md",
-              "RelativeToolTip": "cv.md",
-              "ViewState": "AQIAAH0AAAAAAAAAAAAUwJgAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-19T11:00:18.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "resume.md",
               "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\resume.md",
               "RelativeDocumentMoniker": "resume.md",
               "ToolTip": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\resume.md",
               "RelativeToolTip": "resume.md",
-              "ViewState": "AQIAAHQAAAAAAAAAAAAUwJUAAAAPAAAA",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAUwJQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-04-19T11:00:07.867Z",
+              "WhenOpened": "2024-04-19T11:21:39.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cv.md",
+              "DocumentMoniker": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md",
+              "RelativeDocumentMoniker": "cv.md",
+              "ToolTip": "C:\\Users\\harry\\source\\repos\\HarrySolsem\\MyCV\\cv.md",
+              "RelativeToolTip": "cv.md",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAAAHQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-04-19T11:19:38.838Z",
               "EditorCaption": ""
             }
           ]

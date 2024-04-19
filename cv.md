@@ -26,15 +26,18 @@ tilrettelegging av læring hos mine medarbeidere.
 
 ### Avdelingsleder, Riverty, Oslo 2023.0 9 – dd
 _Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger._
+
 I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.
 
 ### Konsulent, Stoffskifteforbundet, Oslo 2023.05 – 2023.05
 _Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer_
+
 Innleid konsulent som har støttet ny generalsekretær med strategiavklaringer, organisasjonsutvikling,
 rekruttering og forefallende administrasjonsoppgaver innen drift av administrasjonen.
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
 _Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet._
+
 Avdelingsleder med elleve programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig
 leveransemetodikk. Oppgaver innen ressurs-skalering, rekruttering, skape og vedlikeholde et miljø hvor
 ingeniører trives og utvikler seg i henhold til firmaet strategi. Teknisk ansvarlig for alle tjenester og produkter
@@ -42,6 +45,7 @@ tilhørende betalingsdomenet. Medlem i ledergruppen i Tech-seksjonen.
 
 ### Senior Manager, KPMG AS, Oslo 2021.01 - 2021.08
 _KPMG er et av verdens største revisjons- og rådgivningsselskaper med virksomhet innen revisjon, rådgivning, skatt, avgift og forretningsjus._
+
 Konsulent innen prosjekt- og endringsledelse. Utarbeidelse av tilbud, videreutvikling av rammeverk for smidig
 prosjektgjennomføring, med særlig fokus på SCRUM-metodikken. Støttet andre fagavdelinger med deling og
 rådgivning rundt bruk av smidig metodikker.
@@ -49,6 +53,7 @@ rådgivning rundt bruk av smidig metodikker.
 
 ### Prosjektleder, Tech Lead, DNB, Bergen og Oslo 2017.10 - 2021.01
 _DNB er Norges største finanskonsern og en nøkkelvirksomhet i norsk økonomi._
+
 Ledet flere samtidige prosjekter i avdelingen for IT-Sikkerhet, Risk-management og Kvalitet. Her har jeg styrt
 prosjekter som ble gjennomført ved hjelp av en tilpasset Prince2-metodikk.
 Scrum Master for to prosjekter, administrasjon og bindeledd mellom oss og ekstern leverandør. Ledet og vært
@@ -57,6 +62,7 @@ innføring av Scrum som arbeidsmetodikk.
 
 ### Arkitekt, Web Services Technology AS, Bergen 2015.5 - 2017.10
 _WST var et programvarehus som leverte portalløsning til fagsystem innen forsikring._
+
 Ansvar for design, implementasjon og vedlikehold av CI verdikjede bestående av TeamCity og OctoDeploy.
 Portering av Java applikasjon til C#, JavaScript, XSL og XML. Innføring og opplæring av mine kollegaer ved overgang
 fra Java til Microsoft teknologi.
@@ -64,6 +70,7 @@ fra Java til Microsoft teknologi.
 ### Prosjektleder, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.05
 _Sharecat er et programvarehus som leverer programvareløsning for deling av tekniske data til gjenbruk i prosjekter innen
 leverandørindustrien til oljebransjen._
+
 Administrativ prosjektledelse av leveranseprosjekt for tilpasning og implementasjon av katalogtjeneste til kunde.
 Prosjekt estimert til åtte millioner, bestående av opptil femten ansatte i prosjektorganisasjonen. Prosjekt ble
 gjennomført ved bruk av en miks av Prince2 og smidig leveransemetodikk.
@@ -72,6 +79,7 @@ multikulturelle, multilokasjonsteam.
 
 ### Service Delivery Manager, Prosjektleder, Ventelo AS, Kristiansand 2010.3 - 2012.06
 _Ventelo var en mobiloperatør i bedrift og privatmarkedet._
+
 Bindeledd mellom IT og andre avdelinger i organisasjonen. Ansvar for oppgavefordeling og oppfølging under
 utførelse av disse. Kontaktpunkt for bestilling av oppgaver til IT. Prosjektleder for utviklingsprosjekt som ble
 gjennomført ved hjelp av Prince2.
@@ -95,26 +103,26 @@ Linje for administrativ databehandling, 120 studiepoeng
 
 
 ## SERTIFISERINGER
-Prosci Change Management Practitioner, 2024
-Scrum Product Owner, SCPO AgileLean House AS, 2021
-Prince2Agile Foundation, Holte Academy, 2019
-Lean Six Sigma, Yellow Belt, DNB, 2018
-Prince2 Practitioner, Holte Consulting AS, 2016
-Prince2 Foundation, Holte Consulting AS, 2014
-ITIL Foundation, Glasspaper, 2012
-Scrum Master,PSM ScrumAlliance, 2010
+- Prosci Change Management Practitioner, 2024
+- Scrum Product Owner, SCPO AgileLean House AS, 2021
+- Prince2Agile Foundation, Holte Academy, 2019
+- Lean Six Sigma, Yellow Belt, DNB, 2018
+- Prince2 Practitioner, Holte Consulting AS, 2016
+- Prince2 Foundation, Holte Consulting AS, 2014
+- ITIL Foundation, Glasspaper, 2012
+- Scrum Master,PSM ScrumAlliance, 2010
 
 
 ## TILLITSVERV
-Forbundsstyremedlem, Stoffskifteforbundet, 2020 – DD
-Styremedlem, Langhus 1405 Sameie1, 2021 – DD
-Styremedlem i nasjonalt tariffutvalg, NITO, 2014 – 2023
-Annen styrekompetanse fra idrettslag og velforening
+- Forbundsstyremedlem, Stoffskifteforbundet, 2020 – DD
+- Styremedlem, Langhus 1405 Sameie1, 2021 – DD
+- Styremedlem i nasjonalt tariffutvalg, NITO, 2014 – 2023
+- Annen styrekompetanse fra idrettslag og velforening
 
 
 ## SPRÅKKUNNSKAPER
-Norsk, morsmål
-Engelsk, flytende skriftlig og muntlig
+- Norsk, morsmål
+- Engelsk, flytende skriftlig og muntlig
 
 
 ## ANNEN KOMPETANSE

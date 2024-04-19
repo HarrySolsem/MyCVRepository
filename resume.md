@@ -110,8 +110,8 @@ Member of national tariff committee, NITO, 2014 – 2023
 Additional boardmember competency from sportsclubs and house ownership organizations
 
 ## LANGUAGES
-Norwegian, native language
-English, C2 level
+- Norwegian, native language
+- English, C2 level
 
 
 ## OTHER COMPETENCIES
