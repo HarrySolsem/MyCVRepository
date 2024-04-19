@@ -10,7 +10,7 @@ Denne nettside inneholder autogenererte versjoner av min cv, på norsk og engels
 
 ***
 
-NB! Vær oppmerksom på at denne site er fortsatt work in progress og kan endres uten videre.   
+NB! Vær oppmerksom på at denne nettsiden er work in progress og kan endres uten videre.   
 
 ***
 
