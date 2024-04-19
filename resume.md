@@ -7,7 +7,7 @@ DOB: 13 June 1970
 harry@solsem.no
 ```
 ## KEY QUALIFICATIONS
-With more than 30 years of experience, I prioritize, in my role as a leader, creating a safe learning environment
+With more than thirty years of experience, I prioritize, in my role as a leader, creating a safe learning environment
 for my colleagues, where it is allowed to make mistakes, and I ensure that lessons are learned from the mistakes
 that are made. I am analytical, value order, pragmatic, solution-oriented, and motivated to facilitate success for
 my colleagues and myself in achieving results together as a team.
@@ -25,7 +25,7 @@ and facilitating learning among my colleagues.
 
 ### Head of department, Riverty, Oslo 2023.09 – today
 _Riverty is a Fintech company that offers new perspectives on financial solutions._
-In my department, consisting of 50 software-, QA-, security-engineers and architects. Overall responsibility for recruiting, retaining, and ensuring that my engineers undergo personal development in accordance with the company's overall strategy and the department's wishes and needs. I have also led leaders in my organization. Along with department heads in our other development departments across Europe, I have been responsible for resources working in interdisciplinary product teams. I have, together with my colleagues from our other development departments across Europe, been part of a senior leadership group, responsible for synchronizing related processes.
+In my department, consisting of fifty software-, QA-, security-engineers and architects. Overall responsibility for recruiting, retaining, and ensuring that my engineers undergo personal development in accordance with the company's overall strategy and the department's wishes and needs. I have also led leaders in my organization. Along with department heads in our other development departments across Europe, I have been responsible for resources working in interdisciplinary product teams. I have, together with my colleagues from our other development departments across Europe, been part of a senior leadership group, responsible for synchronizing related processes.
 
 ### Consultant, The Norwegian Thyroid Organization (STOFO), Oslo 2023.05 – 2023.05
 _Stofo is a voluntary patient organization for people with thyroid conditions._
@@ -34,7 +34,7 @@ recruitment, and miscellaneous office tasks in running the administration of the
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
 _Neonomics is a software house delivering payment products based on psd 2 - directive._
-Department manager with 11 software engineers, distributed into two interdisciplinary product teams utilizing
+Department manager with eleven software engineers, distributed into two interdisciplinary product teams utilizing
 agile methodology. I had tasks in resource-scaling, recruitment, create and maintain an environment where
 engineers thrive and develop them according to the strategy of the company. I had the technical responsibility for
 all services and products belonging to the payment domain. I was a part of the leadership-team in the tech-
@@ -64,9 +64,9 @@ and training of my colleagues on transition from Java to Microsoft technologies 
 _Sharecat is a software house creating software solutions for sharing technical reusable data in projects for the supplier industry in the oil
 business._
 Project management of delivery project for adaption and implementation of our catalogue service to customer.
-This project had a scope of 8 MNOK, with an organisation up to 15 people. The project was executed by using a
+This project had a scope of eight MNOK, with an organisation up to fifteen people. The project was executed by using a
 mix of Prince2 and agile methodology. In another role I was responsible for implementing, usage and training of
-agile methodology in the whole organisation. I held the role of Scrum master for 3 multilocation and multi-
+agile methodology in the whole organisation. I held the role of Scrum master for three multilocation and multi-
 cultural teams.
 
 ### Service Delivery Manager, Project manager, Ventelo AS, Kristiansand 2010.3 - 2012.06

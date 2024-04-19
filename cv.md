@@ -8,7 +8,7 @@ harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
-Med 30 års erfaring legger jeg vekt på i min rolle som leder å skape et trygt læremiljø for mine kollegaer, hvor det
+Med tretti års erfaring legger jeg vekt på i min rolle som leder å skape et trygt læremiljø for mine kollegaer, hvor det
 er lov å feile, og jeg passer på at det tas lærdom av feilen som er gjort. Er analytisk, opptatt av orden, pragmatisk,
 løsningsorientert og motiveres av å legge til rette for at mine kollegaer og jeg, skal lykke i å skape resultater
 sammen.
@@ -26,7 +26,7 @@ tilrettelegging av læring hos mine medarbeidere.
 
 ### Avdelingsleder, Riverty, Oslo 2023.0 9 – dd
 _Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger._
-I min avdeling, bestående av 50 ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.
+I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.
 
 ### Konsulent, Stoffskifteforbundet, Oslo 2023.05 – 2023.05
 _Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer_
@@ -35,7 +35,7 @@ rekruttering og forefallende administrasjonsoppgaver innen drift av administrasj
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
 _Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet._
-Avdelingsleder med 11 programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig
+Avdelingsleder med elleve programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig
 leveransemetodikk. Oppgaver innen ressurs-skalering, rekruttering, skape og vedlikeholde et miljø hvor
 ingeniører trives og utvikler seg i henhold til firmaet strategi. Teknisk ansvarlig for alle tjenester og produkter
 tilhørende betalingsdomenet. Medlem i ledergruppen i Tech-seksjonen.
@@ -65,9 +65,9 @@ fra Java til Microsoft teknologi.
 _Sharecat er et programvarehus som leverer programvareløsning for deling av tekniske data til gjenbruk i prosjekter innen
 leverandørindustrien til oljebransjen._
 Administrativ prosjektledelse av leveranseprosjekt for tilpasning og implementasjon av katalogtjeneste til kunde.
-Prosjekt estimert til 8 millioner, bestående av opptil 15 ansatte i prosjektorganisasjonen. Prosjekt ble
+Prosjekt estimert til åtte millioner, bestående av opptil femten ansatte i prosjektorganisasjonen. Prosjekt ble
 gjennomført ved bruk av en miks av Prince2 og smidig leveransemetodikk.
-Ansvarlig for innføring, bruk og opplæring av smidig arbeidsmetodikk. Scrum master for 3 team som bestod av
+Ansvarlig for innføring, bruk og opplæring av smidig arbeidsmetodikk. Scrum master for tre team som bestod av
 multikulturelle, multilokasjonsteam.
 
 ### Service Delivery Manager, Prosjektleder, Ventelo AS, Kristiansand 2010.3 - 2012.06
