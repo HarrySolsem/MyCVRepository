@@ -1,4 +1,4 @@
-# HARRY SOLSEM
+ï»¿# HARRY SOLSEM
 
 ```
 Teglverksfaret 16, 1405 Langhus, Norway
@@ -23,11 +23,11 @@ and facilitating learning among my colleagues.
 
 ## EXPERIENCE
 
-### Head of department, Riverty, Oslo 2023.09 – today
+### Head of department, Riverty, Oslo 2023.09 â€“ today
 _Riverty is a Fintech company that offers new perspectives on financial solutions._
 In my department, consisting of fifty software-, QA-, security-engineers and architects. Overall responsibility for recruiting, retaining, and ensuring that my engineers undergo personal development in accordance with the company's overall strategy and the department's wishes and needs. I have also led leaders in my organization. Along with department heads in our other development departments across Europe, I have been responsible for resources working in interdisciplinary product teams. I have, together with my colleagues from our other development departments across Europe, been part of a senior leadership group, responsible for synchronizing related processes.
 
-### Consultant, The Norwegian Thyroid Organization (STOFO), Oslo 2023.05 – 2023.05
+### Consultant, The Norwegian Thyroid Organization (STOFO), Oslo 2023.05 â€“ 2023.05
 _Stofo is a voluntary patient organization for people with thyroid conditions._
 Aiding and consultant to the general secretary with strategy clarifications, organizational development,
 recruitment, and miscellaneous office tasks in running the administration of the organization.
@@ -75,7 +75,7 @@ I held the role as interface between IT and the other departments in the organiz
 distributing tasks to my colleagues and following up on them during execution. Project manager for a software
 development project that was using Prince2 methodology.
 
-### Multiple employers, 1995 – 2010
+### Multiple employers, 1995 â€“ 2010
 I have held several technical operative positions that has given me extended experience in all phases of digital
 product development, operations of IT-systems and working in project teams. More details on my Linkedinprofil.
 
@@ -88,7 +88,7 @@ Module based 30 credit study in project management.
 ### Various courses, Agder College, 1999.08 - 2000.05
 Bachelor level classes in various topics in software design, 33 credits.
 
-### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.05
+### HÃ¸yskolekandidat, Norges HÃ¸yskole for Informasjonsteknologi, 1992.08 - 1994.05
 Software design and related subjects, 120 credits
 
 
@@ -104,9 +104,9 @@ Scrum Master,PSM ScrumAlliance, 2010
 
 
 ## ELECTED POSITIONS
-Member of the board, Norwegian Thyroid Organization, 2020 – td
-Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
-Member of national tariff committee, NITO, 2014 – 2023
+Member of the board, Norwegian Thyroid Organization, 2020 â€“ td
+Member of the board, Langhus 1405 Co-ownership Apartments, 2021 â€“ td
+Member of national tariff committee, NITO, 2014 â€“ 2023
 Additional boardmember competency from sportsclubs and house ownership organizations
 
 ## LANGUAGES
