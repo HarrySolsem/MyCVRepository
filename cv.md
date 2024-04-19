@@ -4,7 +4,8 @@
 Teglverksfaret 16, 1405 Langhus, Norge
 +47 91 60 46 00
 Født: 13 juni 1970
-harry.solsem@solsem.no
+<harry.solsem@solsem.no>
+Min LinkedIN profil [LinkedIN](https://bit.ly/solsemlinkedin)
 ```
 
 ## NØKKELKVALIFIKASJONER
@@ -20,6 +21,8 @@ internasjonale miljøer.
 Ved å ansette meg vil dere få en medarbeider med lang erfaring, som leverer stabil arbeidskraft og som alltid er
 på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg tar ansvar for leveranse av resultat og for
 tilrettelegging av læring hos mine medarbeidere.  
+
+***
 
 ## ERFARING
 
@@ -87,7 +90,7 @@ gjennomført ved hjelp av Prince2.
 Har hatt flere tekniske operative stillinger som har gitt meg erfaring innen systemutvikling, drift av IT-systemer og
 prosjektdeltagelse. Se detaljer på min Linkedinprofil.  
 
-
+***
 
 ## UTDANNELSE
 _Totalt opptjent 133 studiepoeng. Bachelorgrad tilsvarer 130 studiepoeng._
@@ -101,7 +104,7 @@ Fag på bachelor-nivå innen programvareutvikling, 33 studiepoeng.
 ### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.
 Linje for administrativ databehandling, 120 studiepoeng
 
-
+***
 
 ## SERTIFISERINGER
 - Prosci Change Management Practitioner, 2024
@@ -113,7 +116,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 - ITIL Foundation, Glasspaper, 2012
 - Scrum Master,PSM ScrumAlliance, 2010
 
-
+***
 
 ## TILLITSVERV
 - Forbundsstyremedlem, Stoffskifteforbundet, 2020 – DD
@@ -121,13 +124,13 @@ Linje for administrativ databehandling, 120 studiepoeng
 - Styremedlem i nasjonalt tariffutvalg, NITO, 2014 – 2023
 - Annen styrekompetanse fra idrettslag og velforening
 
-
+***
 
 ## SPRÅKKUNNSKAPER
 - Norsk, morsmål
 - Engelsk, flytende skriftlig og muntlig
 
-
+***
 
 ## ANNEN KOMPETANSE
 
