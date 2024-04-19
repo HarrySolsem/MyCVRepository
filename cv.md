@@ -20,8 +20,7 @@ internasjonale miljøer.
 Ved å ansette meg vil dere få en medarbeider med lang erfaring, som leverer stabil arbeidskraft og som alltid er
 på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg tar ansvar for leveranse av resultat og for
 tilrettelegging av læring hos mine medarbeidere.  
-  
-  
+
 ## ERFARING
 
 ### Avdelingsleder, Riverty, Oslo 2023.0 9 – dd
