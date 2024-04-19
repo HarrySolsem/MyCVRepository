@@ -1,11 +1,11 @@
-﻿# HARRY SOLSEM
-
-```
+﻿```
+# HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norway
 +47 91 60 46 00
 DOB: 13 June 1970
 harry@solsem.no
 ```
+
 ## KEY QUALIFICATIONS
 With more than thirty years of experience, I prioritize, in my role as a leader, creating a safe learning environment
 for my colleagues, where it is allowed to make mistakes, and I ensure that lessons are learned from the mistakes
@@ -20,6 +20,7 @@ By hiring me, you will gain an employee with extensive experience who consistent
 always seeking areas for improvement. I thrive in leadership roles where I take responsibility for delivering results
 and facilitating learning among my colleagues.
 
+***
 
 ## EXPERIENCE
 
@@ -79,6 +80,7 @@ development project that was using Prince2 methodology.
 I have held several technical operative positions that has given me extended experience in all phases of digital
 product development, operations of IT-systems and working in project teams. More details on my Linkedinprofil.
 
+***
 
 ## EDUCATION
 
@@ -91,6 +93,7 @@ Bachelor level classes in various topics in software design, 33 credits.
 ### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.05
 Software design and related subjects, 120 credits
 
+***
 
 ## SERTIFICATIONS
 Prosci Change Manager Practitioner, 2024
@@ -102,6 +105,7 @@ Prince2 Foundation, Holte Consulting AS, 2014
 ITIL Foundation, Glasspaper, 2012
 Scrum Master,PSM ScrumAlliance, 2010
 
+***
 
 ## ELECTED POSITIONS
 Member of the board, Norwegian Thyroid Organization, 2020 – td
@@ -109,10 +113,13 @@ Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
 Member of national tariff committee, NITO, 2014 – 2023
 Additional boardmember competency from sportsclubs and house ownership organizations
 
+***
+
 ## LANGUAGES
 - Norwegian, native language
 - English, C2 level
 
+- ***
 
 ## OTHER COMPETENCIES
 
