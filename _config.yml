@@ -1,5 +1,5 @@
-title: My CV Repository 
-Description: Denne nettsiden inneholder en generert utgave av min CV, i engelsk og norsk versjon
+title: Min CV
+Description: Denne nettsiden inneholder en generert utgave av min CV, i engelsk og i norsk versjon
 name: CV Harry Solsem
 remote_theme: pages-themes/modernist@v0.2.0
 encoding: UTF-8
