@@ -2,3 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+header h1:before {
+    content: "./ ";
+    font-size: 12px;
+}
