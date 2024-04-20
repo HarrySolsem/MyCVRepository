@@ -8,7 +8,7 @@ table {
 
 /* Apply styles to table cells */
 th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #181616;
     padding: 8px;
     text-align: left;
 }
