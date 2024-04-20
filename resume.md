@@ -19,23 +19,23 @@ By hiring me, you will gain an employee with extensive experience who consistent
 
 ## EXPERIENCE
 
-### Head of department, Riverty, Oslo 2023.09 – today
+### Head of department, Riverty, Oslo 2023.9 – today
 *Riverty is a Fintech company that offers new perspectives on financial solutions.*   
 In my department, consisting of fifty software-, QA-, security-engineers and architects. Overall responsibility for recruiting, retaining, and ensuring that my engineers undergo personal development in accordance with the company's overall strategy and the department's wishes and needs. I have also led leaders in my organization. Along with department heads in our other development departments across Europe, I have been responsible for resources working in interdisciplinary product teams. I have, together with my colleagues from our other development departments across Europe, been part of a senior leadership group, responsible for synchronizing related processes.
 
-### Consultant, The Norwegian Thyroid Organization (STOFO), Oslo 2023.05 – 2023.05
+### Consultant, The Norwegian Thyroid Organization (STOFO), Oslo 2023.5 – 2023.5
 *Stofo is a voluntary patient organization for people with thyroid conditions.*   
 Aiding and consultant to the general secretary with strategy clarifications, organizational development, recruitment, and miscellaneous office tasks in running the administration of the organization.
 
-### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
+### Engineering Manager, Neonomics AS, Oslo 2021.8 - 2023.3
 *Neonomics is a software house delivering payment products based on psd 2 - directive.*   
 Department manager with eleven software engineers, distributed into two interdisciplinary product teams utilizing agile methodology. I had tasks in resource-scaling, recruitment, create and maintain an environment where engineers thrive and develop them according to the strategy of the company. I had the technical responsibility for all services and products belonging to the payment domain. I was a part of the leadership-team in the tech-section of the company.
 
-### Senior Manager, KPMG AS, Oslo 2021.01 - 2021.08
+### Senior Manager, KPMG AS, Oslo 2021.1 - 2021.8
 *KPMG is a global network of professional firms providing Audit, Tax and Advisory services.*   
 Consulting on project- and change management. Writing offers, development of framework for agile project execution, with special focus on the Scrum methodology. I was assisting the other departments sharing my framework and advising on the use of agile methodologies.
 
-### Project manager, Tech Lead, DNB, Bergen og Oslo 2017.10 - 2021.01
+### Project manager, Tech Lead, DNB, Bergen og Oslo 2017.10 - 2021.1
 *DNB is Norway's largest financial services group and one of the largest in the Nordic region in terms of market capitalisation.*   
 Project manager on multiple simultaneous projects in the IT-Security, Risk management and Quality department. Running projects based on the Prince2 methodology. Scrum master for two projects, administration, and interface to external suppliers of software development services. Leading and consulting of developers working in the Microsoft stack. Advisor as agile coach on initial use of Scrum as methodology.
 
@@ -43,12 +43,12 @@ Project manager on multiple simultaneous projects in the IT-Security, Risk manag
 *WST was a software house building a portal solution for an insurance specialist system.*   
 Accountable for design, implementation and maintenance of CI values chain built using TeamCity and OctoDeploy. Consulting on porting of application from Java into C#, Javascript, XSL og XML. Supporting the transition and training of my colleagues on transition from Java to Microsoft technologies and tools.
 
-### Project manager, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.05
+### Project manager, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.5
 *Sharecat is a software house creating software solutions for sharing technical reusable data in projects for the supplier industry in the oil
 business.*   
 Project management of delivery project for adaption and implementation of our catalogue service to customer. This project had a scope of eight MNOK, with an organisation up to fifteen people. The project was executed by using a mix of Prince2 and agile methodology. In another role I was responsible for implementing, usage and training of agile methodology in the whole organisation. I held the role of Scrum master for three multilocation and multi-cultural teams.
 
-### Service Delivery Manager, Project manager, Ventelo AS, Kristiansand 2010.3 - 2012.06
+### Service Delivery Manager, Project manager, Ventelo AS, Kristiansand 20	10.3 - 2012.6
 *Ventelo was a mobile operator in the business and consumer marked.*   
 I held the role as interface between IT and the other departments in the organization. I was responsible for distributing tasks to my colleagues and following up on them during execution. Project manager for a software development project that was using Prince2 methodology.
 
@@ -59,13 +59,13 @@ I have held several technical operative positions that has given me extended exp
 
 ## EDUCATION
 
-### Project management, BI Norwegian Business School, 2018.08 - 2019.12
+### Project management, BI Norwegian Business School, 2018.8 - 2019.12
 Module based 30 credit study in project management.
 
-### Various courses, Agder College, 1999.08 - 2000.05
+### Various courses, Agder College, 1999.8 - 2000.5
 Bachelor level classes in various topics in software design, 33 credits.
 
-### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.08 - 1994.05
+### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.8 - 1994.5
 Software design and related subjects, 120 credits
 
 ***
