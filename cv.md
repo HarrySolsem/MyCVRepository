@@ -35,28 +35,28 @@ I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ans
 Innleid konsulent som har støttet ny generalsekretær med strategiavklaringer, organisasjonsutvikling, rekruttering og forefallende administrasjonsoppgaver innen drift av administrasjonen.
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
-*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.*
+*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.*   
 Avdelingsleder med elleve programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig leveransemetodikk. Oppgaver innen ressurs-skalering, rekruttering, skape og vedlikeholde et miljø hvor ingeniører trives og utvikler seg i henhold til firmaet strategi. Teknisk ansvarlig for alle tjenester og produkter tilhørende betalingsdomenet. Medlem i ledergruppen i Tech-seksjonen.
 
 ### Senior Manager, KPMG AS, Oslo 2021.01 - 2021.08
-*KPMG er et av verdens største revisjons- og rådgivningsselskaper med virksomhet innen revisjon, rådgivning, skatt, avgift og forretningsjus.*
+*KPMG er et av verdens største revisjons- og rådgivningsselskaper med virksomhet innen revisjon, rådgivning, skatt, avgift og forretningsjus.*   
 Konsulent innen prosjekt- og endringsledelse. Utarbeidelse av tilbud, videreutvikling av rammeverk for smidig prosjektgjennomføring, med særlig fokus på SCRUM-metodikken. Støttet andre fagavdelinger med deling og rådgivning rundt bruk av smidig metodikker.
 
 ### Prosjektleder, Tech Lead, DNB, Bergen og Oslo 2017.10 - 2021.01
-*DNB er Norges største finanskonsern og en nøkkelvirksomhet i norsk økonomi.*
+*DNB er Norges største finanskonsern og en nøkkelvirksomhet i norsk økonomi.*   
 Ledet flere samtidige prosjekter i avdelingen for IT-Sikkerhet, Risk-management og Kvalitet. Her har jeg styrt prosjekter som ble gjennomført ved hjelp av en tilpasset Prince2-metodikk. Scrum Master for to prosjekter, administrasjon og bindeledd mellom oss og ekstern leverandør. Ledet og vært rådgiver for utviklere i avdelingen som jobber med Microsoft stack. Bistand som agil coach ved opplæring av innføring av Scrum som arbeidsmetodikk.
 
 ### Arkitekt, Web Services Technology AS, Bergen 2015.5 - 2017.10
-*WST var et programvarehus som leverte portalløsning til fagsystem innen forsikring.*
+*WST var et programvarehus som leverte portalløsning til fagsystem innen forsikring.*   
 Ansvar for design, implementasjon og vedlikehold av CI verdikjede bestående av TeamCity og OctoDeploy. Portering av Java applikasjon til C#, JavaScript, XSL og XML. Innføring og opplæring av mine kollegaer ved overgang fra Java til Microsoft teknologi.
 
 ### Prosjektleder, Scrum Master, Sharecat Solutions AS Bergen, 2013.2 - 2015.05
 *Sharecat er et programvarehus som leverer programvareløsning for deling av tekniske data til gjenbruk i prosjekter innen
-leverandørindustrien til oljebransjen.*
+leverandørindustrien til oljebransjen.*   
 Administrativ prosjektledelse av leveranseprosjekt for tilpasning og implementasjon av katalogtjeneste til kunde. Prosjekt estimert til åtte millioner, bestående av opptil femten ansatte i prosjektorganisasjonen. Prosjekt ble gjennomført ved bruk av en miks av Prince2 og smidig leveransemetodikk. Ansvarlig for innføring, bruk og opplæring av smidig arbeidsmetodikk. Scrum master for tre team som bestod av multikulturelle, multilokasjonsteam.
 
 ### Service Delivery Manager, Prosjektleder, Ventelo AS, Kristiansand 2010.3 - 2012.06
-*Ventelo var en mobiloperatør i bedrift og privatmarkedet.*
+*Ventelo var en mobiloperatør i bedrift og privatmarkedet.*   
 Bindeledd mellom IT og andre avdelinger i organisasjonen. Ansvar for oppgavefordeling og oppfølging under utførelse av disse. Kontaktpunkt for bestilling av oppgaver til IT. Prosjektleder for utviklingsprosjekt som ble gjennomført ved hjelp av Prince2.
 
 ### Diverse arbeidsgivere, 1995 – 2010
