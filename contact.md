@@ -1,6 +1,6 @@
 ﻿layout: page
 title: "Kontakt meg"
-permalink: /about/contact/
+permalink: /
 
 #Kontaktinformasjon
 ***

@@ -7,4 +7,4 @@
 
 ***
 
-#### [Kontaktinformasjon](https://harrysolsem.github.io/MyCV/about/contact/contact.html)
+#### [Kontaktinformasjon](https://harrysolsem.github.io/MyCV/contact.html)
