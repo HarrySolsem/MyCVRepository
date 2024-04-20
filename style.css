@@ -11,16 +11,15 @@ th, td {
     border: 1px solid #b5e853;
     padding: 8px;
     text-align: left;
+    color:darksalmon;
 }
 
 /* Apply alternate background color to table rows */
 tr:nth-child(even) {
     background-color: #f2f2f2;
-    color: whitesmoke;
 }
 
 /* Apply styles to table header cells */
 th {
     background-color: #4CAF50;
-    color: black;
 }
