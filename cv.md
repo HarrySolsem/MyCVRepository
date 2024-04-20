@@ -1,7 +1,7 @@
 ﻿<link rel="stylesheet" type="text/css" href="style.css">
 
 ```
-# HARRY SOLSEM
+HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norge
 +47 91 60 46 00
 Født: 13 juni 1970
@@ -9,18 +9,11 @@ harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
-Med tretti års erfaring legger jeg vekt på i min rolle som leder å skape et trygt læremiljø for mine kollegaer, hvor det
-er lov å feile, og jeg passer på at det tas lærdom av feilen som er gjort. Er analytisk, opptatt av orden, pragmatisk,
-løsningsorientert og motiveres av å legge til rette for at mine kollegaer og jeg, skal lykke i å skape resultater
-sammen.
+Med tretti års erfaring legger jeg vekt på i min rolle som leder å skape et trygt læremiljø for mine kollegaer, hvor det er lov å feile, og jeg passer på at det tas lærdom av feilen som er gjort. Er analytisk, opptatt av orden, pragmatisk, løsningsorientert og motiveres av å legge til rette for at mine kollegaer og jeg, skal lykke i å skape resultater sammen.
 
-Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier, i
-tillegg til lang erfaring fra smidige metodikker, pluss realkompetanse fra å lede tekniske it-ressurser fra
-internasjonale miljøer.
+Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier, i tillegg til lang erfaring fra smidige metodikker, pluss realkompetanse fra å lede tekniske it-ressurser fra internasjonale miljøer.
 
-Ved å ansette meg vil dere få en medarbeider med lang erfaring, som leverer stabil arbeidskraft og som alltid er
-på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg tar ansvar for leveranse av resultat og for
-tilrettelegging av læring hos mine medarbeidere.  
+Ved å ansette meg vil dere få en medarbeider med lang erfaring, som leverer stabil arbeidskraft og som alltid er på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg tar ansvar for leveranse av resultat og for tilrettelegging av læring hos mine medarbeidere.  
 
 ***
 
