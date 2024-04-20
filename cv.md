@@ -27,11 +27,11 @@ tilrettelegging av læring hos mine medarbeidere.
 ## ERFARING
 
 ### Avdelingsleder, Riverty, Oslo 2023.0 9 – dd
-*Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger.*
+*Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger.*   
 I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.
 
 ### Konsulent, Stoffskifteforbundet, Oslo 2023.05 – 2023.05
-*Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer*
+*Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer*   
 Innleid konsulent som har støttet ny generalsekretær med strategiavklaringer, organisasjonsutvikling, rekruttering og forefallende administrasjonsoppgaver innen drift av administrasjonen.
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.08 - 2023.03
