@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+
 ```
 # HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norway

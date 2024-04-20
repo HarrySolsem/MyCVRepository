@@ -1,4 +1,6 @@
-﻿```
+﻿<link rel="stylesheet" type="text/css" href="style.css">
+
+```
 # HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norge
 +47 91 60 46 00
