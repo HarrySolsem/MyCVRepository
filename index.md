@@ -1,4 +1,4 @@
-﻿# Her finner du autogenererte versjoner av min cv, på norsk og engelsk.
+﻿# Her finner du autogenererte versjon av min cv, på norsk og engelsk.
 
 ***
 
