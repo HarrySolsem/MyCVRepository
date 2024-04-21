@@ -1,4 +1,4 @@
-﻿# Her finner du autogenererte versjon av min norske og engelske cv.
+﻿# Her finner du min norske og engelske cv i HTML format
 
 ***
 
