@@ -53,7 +53,7 @@ Project management of delivery project for adaption and implementation of our ca
 I held the role as interface between IT and the other departments in the organization. I was responsible for distributing tasks to my colleagues and following up on them during execution. Project manager for a software development project that was using Prince2 methodology.
 
 ### Multiple employers, 1995 – 2010
-I have held several technical operative positions that has given me extended experience in all phases of digital product development, operations of IT-systems and working in project teams. More details on my Linkedinprofil.
+I have held several technical operative positions that has given me extended experience in all phases of digital product development, operations of IT-systems and working in project teams. More details on my Linkedinprofile.
 
 ***
 
@@ -78,7 +78,7 @@ Software design and related subjects, 120 credits
 * Prince2 Practitioner, Holte Consulting AS, 2016
 * Prince2 Foundation, Holte Consulting AS, 2014
 * ITIL Foundation, Glasspaper, 2012
-* Scrum Master,PSM ScrumAlliance, 2010
+* Scrum Master, PSM ScrumAlliance, 2010
 
 ***
 
@@ -86,7 +86,7 @@ Software design and related subjects, 120 credits
 * Member of the board, Norwegian Thyroid Organization, 2020 – td
 * Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
 * Member of national tariff committee, NITO, 2014 – 2023
-* Additional boardmember competency from sportsclubs and house ownership organizations
+* Serving as board member on boards on sportsclub and house ownership organizations
 
 ***
 

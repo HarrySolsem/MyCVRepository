@@ -79,7 +79,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 * Prince2 Practitioner, Holte Consulting AS, 2016
 * Prince2 Foundation, Holte Consulting AS, 2014
 * ITIL Foundation, Glasspaper, 2012
-* Scrum Master,PSM ScrumAlliance, 2010
+* Scrum Master, PSM ScrumAlliance, 2010
 
 ***
 
