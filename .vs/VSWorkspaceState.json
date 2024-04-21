@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\images"
   ],
-  "SelectedNode": "\\C:\\Users\\harry\\Source\\Repos\\HarrySolsem\\MyCV",
+  "SelectedNode": "\\cv.md",
   "PreviewInSolutionExplorer": false
 }
