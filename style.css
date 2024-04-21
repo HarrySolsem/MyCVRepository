@@ -8,10 +8,10 @@ table {
 
 /* Apply styles to table cells */
 th, td {
-    border: 1px solid #b5e853;
+    border: 1px solid #c8e6c9;
     padding: 8px;
     text-align: left;
-    color:darksalmon;
+    color: darksalmon;
 }
 
 /* Apply alternate background color to table rows */
