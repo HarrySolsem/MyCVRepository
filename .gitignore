@@ -2,13 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/MyCV/FileContentIndex/29f391bf-c1f2-4f26-a4e1-155cf9c7b9d7.vsidx
-/.vs/MyCV/FileContentIndex/53d6009b-93c6-4061-8af0-4701949050ba.vsidx
-/.vs/MyCV/FileContentIndex/de9e6153-0cda-4243-a489-9ccd0f5e663e.vsidx
-/.vs/MyCV/FileContentIndex/f1b4393f-00bf-4da8-ae3f-f6107e420f1d.vsidx
-/.vs/MyCV/FileContentIndex
-/.vs/MyCV/v17/.wsuo
-/.vs/MyCV/v17/.wsuo
-/.vs/MyCV/FileContentIndex/1ca3e612-b8df-4dce-9990-8a71434db85e.vsidx
-/.vs/slnx.sqlite
-/.vs/MyCV/v17/DocumentLayout.json
+/.vs/
