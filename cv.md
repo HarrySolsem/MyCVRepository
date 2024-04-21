@@ -9,7 +9,7 @@ harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
-Med tretti års erfaring legger jeg vekt på i min rolle som leder å skape et trygt læremiljø for mine kollegaer, hvor det er lov å feile, og jeg passer på at det tas lærdom av feilen som er gjort. Er analytisk, opptatt av orden, pragmatisk, løsningsorientert og motiveres av å legge til rette for at mine kollegaer og jeg, skal lykke i å skape resultater sammen.
+I min rolle som leder legger jeg vekt på å skape et trygt læremiljø for mine medarbeidere. Med tretti års erfaring ønsker jeg å sørge for at det til enhver tid er lov å feile og jeg passer også på at det tas lærdom av feilene som er gjort. Jeg er analytisk, opptatt av orden, pragmatisk og løsningsorientert. Jeg motiveres av å legge til rette for at mine kollegaer og jeg skal lykke i å skape resultater sammen.
 
 Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier, i tillegg til lang erfaring fra smidige metodikker, pluss realkompetanse fra å lede tekniske it-ressurser fra internasjonale miljøer.
 
