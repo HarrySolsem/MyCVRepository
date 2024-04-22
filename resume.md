@@ -9,11 +9,11 @@ harry@solsem.no
 ```
 
 ## KEY QUALIFICATIONS
-With more than thirty years of experience, I prioritize, in my role as a leader, creating a safe learning environment for my colleagues, where it is allowed to make mistakes, and I ensure that lessons are learned from the mistakes that are made. I am analytical, value order, pragmatic, solution-oriented, and motivated to facilitate success for my colleagues and myself in achieving results together as a team.
+In my role as manager, I emphasize on creating a safe learning environment for my coworkers. With more than thirty years of experience, I make sure that it is allowed to make mistakes, including that everyone also learn from the mistakes made. I am analytical, I value order, pragmatic and solution oriented.   
 
-I have extensive technical competence from all phases of digital product development using Microsoft technologies, in addition to extended experience working with and coaching teams into using agile methodologies, plus experience in management of technical it-resources in international working environments.
+I have extensive technical competency from all phases of digital product development using Microsoft technologies. In addition to this I have extended experience working with and coaching teams into using agile methodologies, plus experience in management of technical it-resources in international environments.   
 
-By hiring me, you will gain an employee with extensive experience who consistently delivers quality work and is always seeking areas for improvement. I thrive in leadership roles where I take responsibility for delivering results and facilitating learning among my colleagues.
+By hiring me you will get an employee with extensive experience who consistently delivers quality work and is always seeking areas for improvement. I thrive in leadership roles, where I take responsibility for delivering quality and results.   
 
 ***
 
