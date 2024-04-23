@@ -2,9 +2,9 @@
 
 ***
 
-###  [Norsk CV](https://harrysolsem.github.io/MyCVRepository/cv.html)
-###  [English resume](https://harrysolsem.github.io/MyCVRepository/resume.html)
+###  [Norsk CV](https://harrysolsem.github.io/MyCVRepository/content/norsk/cv.html)
+###  [English resume](https://harrysolsem.github.io/MyCVRepository/content/engelsk/resume.html)
 
 ***
 
-#### [Kontaktinformasjon](https://harrysolsem.github.io/MyCVRepository/contact.html)
+#### [Kontaktinformasjon](https://harrysolsem.github.io/MyCVRepository/content/kontaktinfo/contact.html)
