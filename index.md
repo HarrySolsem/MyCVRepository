@@ -9,4 +9,4 @@
 
 ###### [Kontaktinformasjon](https://harrysolsem.github.io/MyCVRepository/content/kontaktinfo/contact.html)
 
-[^1]: Disse er autogenerert fra md-filer ved hjelp av Github Actions og Github Pages. 
+###### [^1]: Disse er autogenerert fra md-filer ved hjelp av Github Actions og Github Pages. 
