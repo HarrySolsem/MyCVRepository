@@ -62,10 +62,10 @@ Har hatt flere tekniske operative stillinger som har gitt meg erfaring innen sys
 *Totalt opptjent 133 studiepoeng. Bachelorgrad tilsvarer 130 studiepoeng.*
 
 ### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
-Modulbasert 30 studiepoengs-studie innen prosjektledelse.
+Modulbasert 30 studiepoengs-studie innen prosjektledelse.   
 
 ### Kurs, Høyskolen i Agder, 1999.8 - 2000.5
-Fag på bachelor-nivå innen programvareutvikling, 33 studiepoeng.
+Fag på bachelor-nivå innen programvareutvikling, 33 studiepoeng.   
 
 ### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.8 - 1994.5
 Linje for administrativ databehandling, 120 studiepoeng
