@@ -9,11 +9,12 @@ harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
-I min rolle som leder legger jeg vekt på å skape et trygt læremiljø for mine medarbeidere. Med tretti års erfaring, sørger jeg for at det til enhver tid er lov å feile, jeg passer på at det tas lærdom av feilene som er gjort. Jeg er analytisk, opptatt av orden, pragmatisk og løsningsorientert. Jeg motiveres av å legge til rette for at mine kollegaer og jeg skal lykkes i å skape resultater sammen.
 
-Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier. I tillegg har jeg lang erfaring fra smidige metodikker, og har realkompetanse fra å lede tekniske it-ressurser i internasjonale miljøer.
+**I min rolle som leder legger jeg vekt på å skape et trygt læremiljø for mine medarbeidere. Med tretti års erfaring, sørger jeg for at det til enhver tid er lov å feile, jeg passer på at det tas lærdom av feilene som er gjort. Jeg er analytisk, opptatt av orden, pragmatisk og løsningsorientert. Jeg motiveres av å legge til rette for at mine kollegaer og jeg skal lykkes i å skape resultater sammen.**
 
-Ved å ansette meg vil dere få en medarbeider med lang erfaring som leverer stabil arbeidskraft og alltid er på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg på en naturlig måte tar ansvar for leveranse av kvalitet og resultat.  
+**Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier. I tillegg har jeg lang erfaring fra smidige metodikker, og har realkompetanse fra å lede tekniske it-ressurser i internasjonale miljøer.**
+
+**Ved å ansette meg vil dere få en medarbeider med lang erfaring som leverer stabil arbeidskraft og alltid er på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg på en naturlig måte tar ansvar for leveranse av kvalitet og resultat.**  
 
 ***
 
@@ -28,7 +29,7 @@ I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ans
 Innleid konsulent som har støttet ny generalsekretær med strategiavklaringer, organisasjonsutvikling, rekruttering og forefallende administrasjonsoppgaver innen drift av administrasjonen.
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.8 - 2023.3
-*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.*   
+*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.**   
 Avdelingsleder med elleve programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig leveransemetodikk. Oppgaver innen ressurs-skalering, rekruttering, skape og vedlikeholde et miljø hvor ingeniører trives og utvikler seg i henhold til firmaet strategi. Teknisk ansvarlig for alle tjenester og produkter tilhørende betalingsdomenet. Medlem i ledergruppen i Tech-seksjonen.
 
 ### Senior Manager, KPMG AS, Oslo 2021.1 - 2021.8
@@ -53,12 +54,12 @@ Administrativ prosjektledelse av leveranseprosjekt for tilpasning og implementas
 Bindeledd mellom IT og andre avdelinger i organisasjonen. Ansvar for oppgavefordeling og oppfølging under utførelse av disse. Kontaktpunkt for bestilling av oppgaver til IT. Prosjektleder for utviklingsprosjekt som ble gjennomført ved hjelp av Prince2.
 
 ### Diverse arbeidsgivere, 1995 – 2010
-Har hatt flere tekniske operative stillinger som har gitt meg erfaring innen systemutvikling, drift av IT-systemer og prosjektdeltagelse. Se detaljer på min Linkedinprofil.
+Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen systemutvikling, drift av IT-systemer og prosjektdeltagelse. Se detaljer på min Linkedinprofil.
 
 ***
 
 ## UTDANNELSE
-*Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tredve studiepoeng.*
+**Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tredve studiepoeng.**
 
 ### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
 Modulbasert 30 studiepoengs-studie innen prosjektledelse.
@@ -107,7 +108,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 | Prosci Change Management | Delphi              | TeamCity                     |                              |
 | Prince2                  | Basic               | Octopus Deploy               |                              |
 | Prince2 Agile            | Visual Basic        | Team Foundation Server       |                              |
-| ITIL v2                  | Borland C++         | Fiddler                      |                              |
+| ITIL v2                  | C++                 | Fiddler                      |                              |
 |                          | C                   | Postman                      |                              |
 |                          | Java                | Git                          |                              |
 |                          | Javascript          |                              |                              |

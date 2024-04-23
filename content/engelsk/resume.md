@@ -9,11 +9,11 @@ harry.solsem@solsem.no
 ```
 
 ## KEY QUALIFICATIONS
-In my role as manager, I emphasize on creating a safe learning environment for my coworkers. With more than thirty years of experience, I make sure that it is allowed to make mistakes, including that everyone also learn from the mistakes made. I am analytical, I value order, pragmatic and solution oriented.   
+**In my role as manager, I emphasize on creating a safe learning environment for my coworkers. With more than thirty years of experience, I make sure that it is allowed to make mistakes, including that everyone also learn from the mistakes made. I am analytical, I value order, pragmatic and solution oriented.**   
 
-I have extensive technical competency from all phases of digital product development using Microsoft technologies. In addition to this I have extended experience working with and coaching teams into using agile methodologies, plus experience in management of technical it-resources in international environments.   
+**I have extensive technical competency from all phases of digital product development using Microsoft technologies. In addition to this I have extended experience working with and coaching teams into using agile methodologies, plus experience in management of technical it-resources in international environments.**   
 
-By hiring me you will get an employee with extensive experience who consistently delivers quality work and is always seeking areas for improvement. I thrive in leadership roles, where I take responsibility for delivering quality and results.   
+**By hiring me you will get an employee with extensive experience who consistently delivers quality work and is always seeking areas for improvement. I thrive in leadership roles, where I take responsibility for delivering quality and results.**   
 
 ***
 
@@ -58,7 +58,7 @@ I have held several technical operative positions that has given me extended exp
 ***
 
 ## EDUCATION
-*I have earned a total of a hundred and thirtythree credits. A bachelors degree is eqvivalent to a hundred and thirty credits.*
+**I have earned a total of a hundred and thirtythree credits. A bachelors degree is eqvivalent to a hundred and thirty credits.**
 
 ### Project management, BI Norwegian Business School, 2018.8 - 2019.12
 Module based 30 credit study in project management.
@@ -107,7 +107,7 @@ Software design and related subjects, 120 credits
 | Prosci Change Management | Delphi                | TeamCity                     |                              |
 | Prince2                  | Basic                 | Octopus Deploy               |                              |
 | Prince2 Agile            | Visual Basic          | Team Foundation Server       |                              |
-| ITIL v2                  | Borland C++           | Fiddler                      |                              |
+| ITIL v2                  | C++                   | Fiddler                      |                              |
 |                          | C                     | Postman                      |                              |
 |                          | Java                  | Git                          |                              |
 |                          | Javascript            |                              |                              |
