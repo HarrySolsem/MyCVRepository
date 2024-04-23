@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="./assets/css/resume_style.css">
+<link rel="stylesheet" type="text/css" href="/resume_style.css">
 
 ```
 HARRY SOLSEM
