@@ -1,5 +1,4 @@
-﻿<link rel="stylesheet" type="text/css" href="style.css">
-
+﻿<link rel="stylesheet" type="text/css" href="/assets/css/style_cv_.css">
 
 ```
 HARRY SOLSEM
@@ -59,7 +58,7 @@ Har hatt flere tekniske operative stillinger som har gitt meg erfaring innen sys
 ***
 
 ## UTDANNELSE
-*Totalt opptjent 133 studiepoeng. Bachelorgrad tilsvarer 130 studiepoeng.*
+*Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tredve studiepoeng.*
 
 ### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
 Modulbasert 30 studiepoengs-studie innen prosjektledelse.

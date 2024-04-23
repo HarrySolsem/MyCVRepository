@@ -1,11 +1,11 @@
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="/assets/css/style_resume_.css">
 
 ```
 HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norway
 +47 91 60 46 00
 DOB: 13 June 1970
-harry@solsem.no
+harry.solsem@solsem.no
 ```
 
 ## KEY QUALIFICATIONS
@@ -58,6 +58,7 @@ I have held several technical operative positions that has given me extended exp
 ***
 
 ## EDUCATION
+*I have earned a total of a hundred and thirtythree credits. A bachelors degree is eqvivalent to a hundred and thirty credits.*
 
 ### Project management, BI Norwegian Business School, 2018.8 - 2019.12
 Module based 30 credit study in project management.
