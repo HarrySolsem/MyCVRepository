@@ -11,7 +11,7 @@ th, td {
     border: 1px solid #c8e6c9;
     padding: 8px;
     text-align: left;
-    color: darksalmon;
+    color: #6592af;
 }
 
 /* Apply alternate background color to table rows */
@@ -21,5 +21,5 @@ tr:nth-child(even) {
 
 /* Apply styles to table header cells */
 th {
-    background-color: #4CAF50;
+    background-color: #65af72;
 }
