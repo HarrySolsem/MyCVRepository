@@ -61,8 +61,8 @@ Har hatt flere tekniske operative stillinger som har gitt meg erfaring innen sys
 ## UTDANNELSE
 *Totalt opptjent 133 studiepoeng. Bachelorgrad tilsvarer 130 studiepoeng.*
 
-### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
-Modulbasert 30 studiepoengs-studie innen prosjektledelse.   
+### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12   
+Modulbasert 30 studiepoengs-studie innen prosjektledelse.
 
 ### Kurs, Høyskolen i Agder, 1999.8 - 2000.5
 Fag på bachelor-nivå innen programvareutvikling, 33 studiepoeng.   
