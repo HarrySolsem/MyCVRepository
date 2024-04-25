@@ -7,7 +7,7 @@ Mobil: 916 04 600
 E-post: harry@solsem.no	
 Alder: født 1970
 NITO Avdeling: Oslo og Akershus
-Tariffområde: Privat
+Tariffområdeerfaring: Privat, Spekter
 LinkedIn: http://bit.ly/solsemlinkedin
 ```
 
@@ -48,7 +48,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 ## Kurs og opplæring i regi av NITO
 
 | Tidspunkt | Kurstittel                                               |
-| :----:    | :----:                                                   |
+| :----:    | :----                                                    |
 | 2023	    | Intro 3                                                  |
 | 2023	    | Intro 2                                                  |
 | 2019	    | Sikkerhet i praksis                                      |
