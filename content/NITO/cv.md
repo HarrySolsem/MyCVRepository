@@ -3,9 +3,9 @@
 ```
 Personalia	
 Navn: Harry Solsem
-Mobil: 916 04 600
-E-post: harry@solsem.no	
-Alder: født 1970
++47 916 04 600
+harry@solsem.no	
+Født: 1970
 NITO Avdeling: Oslo og Akershus
 Tariffområdeerfaring: Privat, Spekter
 LinkedIn: http://bit.ly/solsemlinkedin
