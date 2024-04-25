@@ -7,8 +7,7 @@ Navn: Harry Solsem
 harry@solsem.no	
 Født: 1970
 NITO Avdeling: Oslo og Akershus
-Tariffområdeerfaring: Privat, Spekter
-LinkedIn: http://bit.ly/solsemlinkedin
+Tariffområde: Privat
 ```
 
 

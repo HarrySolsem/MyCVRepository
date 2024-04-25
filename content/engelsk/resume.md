@@ -4,7 +4,7 @@
 HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus, Norway
 +47 91 60 46 00
-DOB: 13 June 1970
+DOB: 13 of June 1970
 harry.solsem@solsem.no
 ```
 
