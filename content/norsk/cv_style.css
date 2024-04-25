@@ -23,20 +23,3 @@ tr:nth-child(even) {
 th {
     background-color: #65af72;
 }
-
-/* Add some padding, center the text, set a background color, and change the font size */
-.header {
-    padding: 60px;
-    text-align: center;
-    background: #1abc9c; /* Teal background */
-    color: white;
-    font-size: 30px;
-}
-
-/* For a responsive header that changes design based on screen size */
-@media screen and (max-width: 500px) {
-    .header {
-        padding: 20px;
-        text-align: left;
-    }
-}
