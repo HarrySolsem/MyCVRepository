@@ -46,6 +46,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 ***
 
 ## Kurs og opplæring i regi av NITO
+
 | Tidspunkt | Kurstittel                                               |
 | :----:    | :----:                                                   |
 | 2023	    | Intro 3                                                  |
@@ -70,6 +71,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 
 
 ## Arbeidserfaring
+
 | Tidspunkt       | Tittel og arbeidsgiver                                            |
 | :----:          | :----:                                                            |
 | 2023.9 – dd	  | Avdelingsleder, Riverty, Oslo                                     |
@@ -84,6 +86,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 
 		
 ## Utdanning
+
 | Tidspunkt         | Type, læreinstitusjon og beskrivelse                                                                                 |
 | :----:            | :----:                                                                                                               |
 | 2018.8 - 2019.12	| Prosjektledelse, BI Handelshøyskolen Modulbasert 30 studiepoengs-studie innen prosjektledelse.                       |
@@ -92,6 +95,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 
 
 ### Verv/frivillig arbeid utenfor NITO
+
 | Tidspunkt         | Beskrivelse, organisasjon                  |
 | :----:            | :----:                                     |
 | 2020 – DD 	    | Forbundsstyremedlem, Stoffskifteforbundet  |
