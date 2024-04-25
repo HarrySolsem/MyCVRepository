@@ -6,4 +6,4 @@
 
 ***
 
-#### Meg på [LinkedIN](https://bit.ly/solsemlinkedin).
+#### Meg på [LinkedIN](https://bit.ly/solsemlinkedin)
