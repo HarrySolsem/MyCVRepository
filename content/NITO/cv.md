@@ -1,8 +1,5 @@
 ﻿<link rel="stylesheet" type="text/css" href="cv_style.css">
 
-<title>Dette er muligens en tittel</title>
-
-
 ```
 Personalia	
 Navn: Harry Solsem
