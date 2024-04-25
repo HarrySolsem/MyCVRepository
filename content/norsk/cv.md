@@ -101,7 +101,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 ### ANNEN KOMPETANSE
 
 | Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    |
-| :----:                   | :----:              | :----:                       | :----:                       |
+| :----                    | :----               | :----                        | :----                        |
 | Scrum                    | Turbo Pascal        | Microsoft Visual Studio      | Microsoft Foundation Classes |
 | Kanban                   | Assembler           | Microsoft Visual Studio Code | Microsoft.NET                |
 | Lean                     | Ada                 | Sql Management Studio        |                              |

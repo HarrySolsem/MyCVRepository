@@ -73,7 +73,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 ## Arbeidserfaring
 
 | Tidspunkt       | Tittel og arbeidsgiver                                            |
-| :----:          | :----:                                                            |
+| :----:          | :----                                                             |
 | 2023.9 – dd	  | Avdelingsleder, Riverty, Oslo                                     |
 | 2023.5 – 2023.5 |	Konsulent, Stoffskifteforbundet, Oslo                             |
 | 2021.8 - 2023.3 |	Engineering Manager, Neonomics AS, Oslo                           |
@@ -88,7 +88,7 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 ## Utdanning
 
 | Tidspunkt         | Type, læreinstitusjon og beskrivelse                                                                                 |
-| :----:            | :----:                                                                                                               |
+| :----:            | :----                                                                                                                |
 | 2018.8 - 2019.12	| Prosjektledelse, BI Handelshøyskolen Modulbasert 30 studiepoengs-studie innen prosjektledelse.                       |
 | 1999.8 - 2000.5	| Kurs, Høyskolen i Agder, Fag på bachelor-nivå innen programvareutvikling, 33 studiepoeng.                            |
 | 1992.8 - 1994.5	| Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, Linje for administrativ databehandling, 120 studiepoeng |
@@ -97,6 +97,6 @@ Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, s
 ### Verv/frivillig arbeid utenfor NITO
 
 | Tidspunkt         | Beskrivelse, organisasjon                  |
-| :----:            | :----:                                     |
+| :----:            | :----                                      |
 | 2020 – DD 	    | Forbundsstyremedlem, Stoffskifteforbundet  |
 | 2021 – DD	        | Styremedlem, Langhus 1405 Sameie1          |

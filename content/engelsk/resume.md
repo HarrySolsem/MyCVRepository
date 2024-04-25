@@ -100,7 +100,7 @@ Software design and related subjects, 120 credits
 ### OTHER COMPETENCIES
 
 | Methodologies            | Programming languages | Tools                        | Frameworks                   |
-| :----:                   |:----:                 |:----:                        |:----:                        |
+| :----                    |:----                  |:----                         |:----                         |
 | Scrum                    | Turbo Pascal          | Microsoft Visual Studio      | Microsoft Foundation Classes |
 | Kanban                   | Assembler             | Microsoft Visual Studio Code | Microsoft.NET                |
 | Lean                     | Ada                   | Sql Management Studio        |                              |
