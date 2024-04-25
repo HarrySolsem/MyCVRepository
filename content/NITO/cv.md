@@ -13,7 +13,7 @@ LinkedIn: http://bit.ly/solsemlinkedin
 
 
 ## Nøkkelkvalifikasjoner
-** Lang relevant erfaring fra flere avdelinger, styremedlem i Agder, flere tillitsvalgte verv i Hordaland. Jeg har lang erfaring fra flere nasjonale tariffutvalg i Spekter og Privat. Startet 4 bedriftsgrupper, erfaring fra både arbeidstaker- og arbeidsgiversiden i næringslivet.   
+** Lang relevant erfaring fra flere avdelinger, styremedlem i Agder, flere tillitsvalgte verv i Hordaland. Jeg har lang erfaring fra flere nasjonale tariffutvalg i Spekter og Privat. Startet 4 bedriftsgrupper, erfaring fra både arbeidstaker- og arbeidsgiversiden i næringslivet. **   
 
 *** 
 
