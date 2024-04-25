@@ -1,4 +1,4 @@
-﻿# CV
+﻿<link rel="stylesheet" type="text/css" href="cv_style.css">
 
 ```
 Personalia	
@@ -13,7 +13,7 @@ LinkedIn: http://bit.ly/solsemlinkedin
 
 
 ## Nøkkelkvalifikasjoner
-** Lang relevant erfaring fra flere avdelinger, styremedlem i Agder, flere tillitsvalgte verv i Hordaland. Jeg har lang erfaring fra flere nasjonale tariffutvalg i Spekter og Privat. Startet 4 bedriftsgrupper, erfaring fra både arbeidstaker- og arbeidsgiversiden i næringslivet.
+** Lang relevant erfaring fra flere avdelinger, styremedlem i Agder, flere tillitsvalgte verv i Hordaland. Jeg har lang erfaring fra flere nasjonale tariffutvalg i Spekter og Privat. Startet 4 bedriftsgrupper, erfaring fra både arbeidstaker- og arbeidsgiversiden i næringslivet.   
 
 *** 
 
@@ -41,7 +41,7 @@ Støttet bedriftsgruppetillitsvalgte og samarbeid med sentralt tariffutvalg.
 Stiftet bedriftsgruppe og vært bindeledd mellom NITO og ledelsen. Lokalt samarbeid med Tekna.
 
 ### 25.03.2011 - 13.06.2012 Leder Spekter tariffutvalg, NITO Vest-Agder
-Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, samarbeid mellom tariffutvalg og avdelingsstyre.
+Lært ledelse av et lokalt tariffutvalg. Støttet bedriftsgruppetillitsvalgte, samarbeid mellom tariffutvalg og avdelingsstyre.   
 
 ***
 
