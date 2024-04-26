@@ -114,3 +114,4 @@ Software design and related subjects, 120 credits
 |                          | C#                    |                              |                              |
 |                          | SQL                   |                              |                              |
 |                          | HTML                  |                              |                              |
+|                          | CSS                   |                              |                              |
