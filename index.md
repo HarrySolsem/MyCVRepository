@@ -3,7 +3,7 @@
 ***
 
 #### [CV på norsk](https://harrysolsem.github.io/MyCVRepository/content/norsk/cv.html)
-#### [Resume in English](https://harrysolsem.github.io/MyCVRepository/content/engelsk/resume.html) [NITO CV](https:
+#### [Resume in English](https://harrysolsem.github.io/MyCVRepository/content/engelsk/resume.html)
 
 *** 
 
