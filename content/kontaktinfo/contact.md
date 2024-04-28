@@ -1,4 +1,8 @@
-﻿# Kontaktinformasjon
+﻿---
+title: Kontaktinformasjon
+---
+
+# Kontaktinformasjon
 
 ***
 

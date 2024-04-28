@@ -1,5 +1,5 @@
 ---
-title: My Doc Title
+title: English resume
 ---
 
 <link rel="stylesheet" type="text/css" href="resume_style.css">
