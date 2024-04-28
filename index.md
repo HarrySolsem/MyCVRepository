@@ -1,5 +1,5 @@
 ---
-title: Yada yada
+title: CV Repository
 ---
 
 ## Her finner du min norske og engelske cv[^1].
