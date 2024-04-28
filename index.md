@@ -1,3 +1,7 @@
+---
+title: Yada yada
+---
+
 ## Her finner du min norske og engelske cv[^1].
 
 ***
