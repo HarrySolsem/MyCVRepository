@@ -14,8 +14,4 @@ title: CV Repository
 
 ###### [Kontaktinformasjon](https://harrysolsem.github.io/MyCVRepository/content/kontaktinfo/contact.html)
 
-***
-
 ###### [Om](https://harrysolsem.github.io/MyCVRepository/content/about/about.html)
-
-***
