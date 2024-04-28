@@ -2,7 +2,9 @@
 title: OM
 ---
 
-# Om
+<link rel="stylesheet" type="text/css" href="about_style.css">
+
+# Om disse nettsidene
 
 ***
 
