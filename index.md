@@ -2,7 +2,7 @@
 title: CV Repository
 ---
 
-## Her finner du min norske og engelske cv[^1].
+## Her finner du min norske og engelske cv.
 
 ***
 
@@ -16,4 +16,6 @@ title: CV Repository
 
 ***
 
-[^1]: Disse er autogenerert fra md-filer ved hjelp av Github Actions og Github Pages.
+###### [Om](https://harrysolsem.github.io/MyCVRepository/content/about/about.html)
+
+***
