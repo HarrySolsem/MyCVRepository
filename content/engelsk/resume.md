@@ -1,3 +1,7 @@
+---
+title: My Doc Title
+---
+
 <link rel="stylesheet" type="text/css" href="resume_style.css">
 
 ```text
