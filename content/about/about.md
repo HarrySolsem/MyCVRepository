@@ -12,4 +12,4 @@ title: OM
 
 ***
 
-#### Nettsiden ble bygget {{ site.time | date_to_string }}
+#### Nettsiden ble sist bygget {{ site.time | date_to_rfc822 }}
