@@ -10,10 +10,3 @@ title: OM
 
 #### Disse nettsidene er laget ved hjelp av Github Actions og Github Pages og innholdet er autogenerert fra markdown-kodede filer.
 
-***
-
-```liquid
-{% raw %}
-  {{ page.date | date: "%-d %B %Y" }}
-{% endraw %}
-```
