@@ -2,7 +2,7 @@
 title: CV Repository
 ---
 
-## Her finner du min norske og engelske cv.
+## Under finner du linker til min norske og engelske cv.
 
 ***
 
