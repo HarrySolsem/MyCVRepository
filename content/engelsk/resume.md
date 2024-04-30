@@ -6,7 +6,7 @@ title: English resume
 
 ```text
 HARRY SOLSEM
-Teglverksfaret 16, 1405 Langhus, Norway
+Teglverksfaret 16, 1405 Langhus
 +47 91 60 46 00
 DOB: 13 of June 1970
 harry.solsem@solsem.no
