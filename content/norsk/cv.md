@@ -68,7 +68,7 @@ Bindeledd mellom IT og andre avdelinger i organisasjonen. Ansvar for oppgaveford
 
 ### Diverse arbeidsgivere, 1995 – 2010
 
-Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen systemutvikling, drift av IT-systemer og prosjektdeltagelse. Se detaljer på min Linkedinprofil.
+Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen systemutvikling, drift av IT-systemer og prosjektdeltagelse. Se detaljer om dette på [LinkedIN](https://bit.ly/solsemlinkedin).
 
 ***
 

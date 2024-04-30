@@ -67,7 +67,7 @@ I held the role as interface between IT and the other departments in the organiz
 
 ### Multiple employers, 1995 – 2010
 
-I have held several technical operative positions that has given me extended experience in all phases of digital product development, operations of IT-systems and working in project teams. More details on my Linkedinprofile.
+I have held several technical operative positions that has given me extended experience in all phases of digital product development, operations of IT-systems and working in project teams. More details on my [LinkedIN profile](https://bit.ly/solsemlinkedin).
 
 ***
 
