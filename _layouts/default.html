@@ -13,9 +13,13 @@
 <body>
     <header>
         <div class="container">
-            <a id="a-title" href="{{ '/' | relative_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
+            <!--<a id="a-title" href="{{ '/' | relative_url }}">
+        <h1>{{ site.title | default: site.github.repository_name }}</h1>
+    </a>-->
+
+            <nav>
+                <a href="/">Hjem</a>
+            </nav>
 
             <section id="downloads">
                 {% if site.show_downloads %}
