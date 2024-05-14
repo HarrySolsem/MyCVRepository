@@ -7,8 +7,8 @@
 | ITIL v2                  | C++                   | Fiddler                      |                              |
 |                          | C                     | Postman                      |                              |
 |                          | Java                  | Git                          |                              |
-|                          | Javascript            |                              |                              |
-|                          | C#                    |                              |                              |
+|                          | Javascript            | Github Actions               |                              |
+|                          | C#                    | Github Pages                 |                              |
 |                          | SQL                   |                              |                              |
 |                          | HTML                  |                              |                              |
 |                          | CSS                   |                              |                              |
