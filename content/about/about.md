@@ -12,4 +12,4 @@ title: OM
 
 ***
 
-###### Nettsiden ble sist publisert {{ site.time | date_to_rfc822  }}
+###### Nettsidene ble sist publisert {{ site.time | date_to_rfc822  }}
