@@ -5,11 +5,11 @@ title: English resume
 <link rel="stylesheet" type="text/css" href="resume_style.css">
 
 ```text
-HARRY SOLSEM
-Teglverksfaret 16, 1405 Langhus
-+47 91 60 46 00
+Name: HARRY SOLSEM
+Address: Teglverksfaret 16, 1405 Langhus
+Phone: +47 91 60 46 00
 DOB: 13 of June 1970
-harry.solsem@solsem.no
+Email: harry.solsem@solsem.no
 ```
 
 ## KEY QUALIFICATIONS

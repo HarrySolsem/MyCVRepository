@@ -5,11 +5,11 @@ title: Norsk CV
 <link rel="stylesheet" type="text/css" href="cv_style.css">
 
 ```text
-HARRY SOLSEM
-Teglverksfaret 16, 1405 Langhus
-+47 91 60 46 00
+Navn: HARRY SOLSEM
+Adresse: Teglverksfaret 16, 1405 Langhus
+Tlf: +47 91 60 46 00
 Født: 13 juni 1970
-harry.solsem@solsem.no
+Epost: harry.solsem@solsem.no
 ```
 
 ## NØKKELKVALIFIKASJONER
