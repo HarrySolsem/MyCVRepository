@@ -2,6 +2,8 @@
 title: English resume
 ---
 
+<link rel="stylesheet" type="text/css" href="resume_style.css">
+
 ```text
 HARRY SOLSEM
 Teglverksfaret 16, 1405 Langhus

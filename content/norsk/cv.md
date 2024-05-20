@@ -2,6 +2,7 @@
 title: Norsk CV
 ---
 
+<link rel="stylesheet" type="text/css" href="cv_style.css">
 
 ```text
 HARRY SOLSEM

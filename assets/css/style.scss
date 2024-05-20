@@ -5,34 +5,3 @@
 header h1:before {
     content: "";
 }
-
-/* styles.css */
-/* Apply styles to the table */
-table {
-    border-collapse: collapse;
-    width: 100%;
-    margin-bottom: 20px;
-}
-
-/* Apply styles to table cells */
-th, td {
-    border: 1px solid #c8e6c9;
-    padding: 8px;
-    text-align: left;
-    color: #6592af;
-}
-
-/* Apply alternate background color to table rows */
-tr:nth-child(even) {
-    background-color: #f2f2f3;
-}
-
-/* Apply styles to table header cells */
-th {
-    background-color: #65af73;
-}
-
-/*header {
-    display: none;
-}
-*/
