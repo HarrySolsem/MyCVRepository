@@ -3,7 +3,7 @@
 | Lean                     | Ada                   | Sql Management Studio        |                              |
 | Prosci Change Management | Delphi                | TeamCity                     |                              |
 | Prince2                  | Basic                 | Octopus Deploy               |                              |
-| Prince2 Agile            | Visual Basic          | Team Foundation Server       |                              |
+| Prince2Agile             | Visual Basic          | Team Foundation Server       |                              |
 | ITIL v2                  | C++                   | Fiddler                      |                              |
 |                          | C                     | Postman                      |                              |
 |                          | Java                  | Git                          |                              |
