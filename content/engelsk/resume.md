@@ -8,7 +8,7 @@ title: English resume
 Name: HARRY SOLSEM
 Address: Teglverksfaret 16, 1405 Langhus
 Phone: +47 91 60 46 00
-DOB: 13 of June 1970
+DOB: 13th of June 1970
 Email: harry.solsem@solsem.no
 ```
 

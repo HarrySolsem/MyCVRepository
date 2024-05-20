@@ -31,12 +31,12 @@ I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ans
 
 ### Konsulent, Stoffskifteforbundet, Oslo 2023.5 – 2023.5
 
-*Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer*
+*Stoffskifteforbundet er en frivillig interesseorganisasjon for personer med tyreoidea stoffskiftesykdommer.*
 Innleid konsulent som har støttet ny generalsekretær med strategiavklaringer, organisasjonsutvikling, rekruttering og forefallende administrasjonsoppgaver innen drift av administrasjonen.
 
 ### Engineering Manager, Neonomics AS, Oslo 2021.8 - 2023.3
 
-*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.**
+*Neonomics er et programvarehus som leverer digitale produkter innen betalingsformidling basert på psd2-regulativet.*
 Avdelingsleder med elleve programvareingeniører, fordelt på to tverrfaglige produkt-team som benytter smidig leveransemetodikk. Oppgaver innen ressurs-skalering, rekruttering, skape og vedlikeholde et miljø hvor ingeniører trives og utvikler seg i henhold til firmaet strategi. Teknisk ansvarlig for alle tjenester og produkter tilhørende betalingsdomenet. Medlem i ledergruppen i Tech-seksjonen.
 
 ### Senior Manager, KPMG AS, Oslo 2021.1 - 2021.8
@@ -73,7 +73,7 @@ Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen
 
 ## UTDANNELSE
 
-**Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tredve studiepoeng.**
+**Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tretti studiepoeng.**
 
 ### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
 
