@@ -1,8 +1,7 @@
 ﻿---
 title: Norsk CV
+custom_css: cv
 ---
-
-<link rel="stylesheet" type="text/css" href="cv_style.css">
 
 ```text
 Navn: HARRY SOLSEM

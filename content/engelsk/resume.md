@@ -1,8 +1,7 @@
 ---
 title: English resume
+custom_css: resume
 ---
-
-<link rel="stylesheet" type="text/css" href="resume_style.css">
 
 ```text
 Name: HARRY SOLSEM

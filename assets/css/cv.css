@@ -16,7 +16,7 @@ th, td {
 
 /* Apply alternate background color to table rows */
 tr:nth-child(even) {
-    background-color: #c1c1c2;
+    background-color: #c1c1c3;
 }
 
 /* Apply styles to table header cells */
