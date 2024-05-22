@@ -1,6 +1,10 @@
-bundle exec jekyll serve
+start server med internett-tilgang: bundle exec jekyll serve
 
-127.0.0.1:4000
+https://127.0.0.1:4000
 
 
 ved behov: bundle update github-pages
+
+installer alle avhengigheter lokalt: bundle package --all --all-platforms
+bundle install --local
+

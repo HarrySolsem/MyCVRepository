@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: Kontaktinformasjon
+  link: /content/contact.html
+- name: About
+  link: /content/about.html

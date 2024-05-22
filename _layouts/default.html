@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/styles.css">
 
     {% if page.custom_css %}
     {% for stylesheet in page.custom_css %}
@@ -20,10 +21,15 @@
 <body>
     <header>
         <div class="container">
+            <!--<nav>
+        <a href="{{ '/' | relative_url }}">Hjem</a>
+        <a href="{{ '/content/about/about.html' | relative_url }}">Om</a>
+        <a href="{{ '/content/kontaktinfo/contact.html' | relative_url }}">Kontaktinformasjon</a>
+    </nav>-->
             <nav>
-                <a href="{{ '/' | relative_url }}">Hjem</a>
-                <a href="{{ '/content/about/about.html' | relative_url }}">Om</a>
-                <a href="{{ '/content/kontaktinfo/contact.html' | relative_url }}">Kontaktinformasjon</a>
+                {% for item in site.data.navigation %}
+                <a href="{{ item.link }}" {% if page.url == item.link %} class="current" {% endif %}>{{ item.name }}</a>
+                {% endfor %}
             </nav>
         </div>
     </header>
