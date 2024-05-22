@@ -1,6 +1,6 @@
 - name: Home
   link: /
 - name: Kontaktinformasjon
-  link: /content/contact.html
+  link: /content/kontaktinfo/contact.html
 - name: About
-  link: /content/about.html
+  link: /content/about/about.html
