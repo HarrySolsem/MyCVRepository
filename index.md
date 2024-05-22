@@ -6,6 +6,5 @@ title: CV Repository
 
 ***
 
-### [CV på norsk](https://harrysolsem.github.io/MyCVRepository/content/norsk/cv.html)
-
-### [Resume in English](https://harrysolsem.github.io/MyCVRepository/content/engelsk/resume.html)
+### [CV på norsk]({% link  /content/norsk/cv.html%})
+### [Resume in English]({% link  /content/engelsk/resume.html%})
