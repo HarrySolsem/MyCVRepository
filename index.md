@@ -6,5 +6,5 @@ title: CV Repository
 
 ***
 
-### [CV på norsk]({% link  /content/norsk/cv.html%})
-### [Resume in English]({% link  /content/engelsk/resume.html%})
+### [CV på norsk]({% link  content/norsk/cv.html%})
+### [Resume in English]({% link  content/engelsk/resume.html%})
