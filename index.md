@@ -6,5 +6,5 @@ title: CV Repository
 
 ***
 
-### [CV på norsk]({% link  content/norsk/cv.md %})
-### [Resume in English]({% link  content/engelsk/resume.md %})
+### [CV på norsk]({{ site.baseurl }}{% link  content/norsk/cv.md %})
+### [Resume in English]({{ site.baseurl }}{% link  content/engelsk/resume.md %})
