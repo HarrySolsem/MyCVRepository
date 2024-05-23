@@ -1,4 +1,7 @@
-﻿<link rel="stylesheet" type="text/css" href="cv_style.css">
+﻿---
+title: NITO CV
+custom_css: nitocv
+---
 
 ```text
 Personalia 

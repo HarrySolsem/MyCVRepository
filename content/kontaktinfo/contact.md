@@ -1,5 +1,6 @@
 ﻿---
 title: Kontaktinformasjon
+custom_css: contact
 ---
 
 <link rel="stylesheet" type="text/css" href="contact_style.css">
