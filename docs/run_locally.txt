@@ -5,6 +5,6 @@ https://127.0.0.1:4000
 
 ved behov: bundle update github-pages
 
-installer alle avhengigheter lokalt: bundle package --all --all-platforms
+installer alle avhengigheter lokalt, for å kjøre uten internett-tilgang: bundle package --all --all-platforms
 bundle install --local
 

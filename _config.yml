@@ -5,3 +5,5 @@ remote_theme: pages-themes/hacker@v0.2.0
 encoding: UTF-8
 show_downloads: false
 baseurl: /MyCVRepository
+exclude:
+  - docs
