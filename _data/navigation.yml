@@ -1,6 +1,6 @@
 - name: Hjem
-  link: /MyCVRepository/
+  link: /
 - name: Kontaktinformasjon
-  link: /MyCVRepository/content/kontaktinfo/contact.html
+  link: /content/kontaktinfo/contact.html
 - name: Om
-  link: /MyCVRepository/content/about/about.html
+  link: /content/about/about.html
