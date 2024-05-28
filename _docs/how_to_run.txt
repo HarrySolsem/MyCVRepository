@@ -1,0 +1,5 @@
+start server med dev config
+bundle exec jekyll s --config _config.yml,_config_dev.yml
+
+start server med prod config
+bundle exec jekyll s --config _config.yml,_config_prod.yml
