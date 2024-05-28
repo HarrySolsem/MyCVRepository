@@ -6,5 +6,5 @@ title: CV Repository
 
 ***
 
-### [Norsk]({{ '/2024/05/19/cv.html' | absolute_url}})
-### [English]({{ '/2024/05/21/resume.html'| absolute_url }})
+### [Norsk]({{ '/pages/cv.html' | absolute_url}})
+### [English]({{ '/pages/resume.html'| absolute_url }})
