@@ -23,7 +23,7 @@ Email: harry.solsem@solsem.no
 
 ## EXPERIENCE
 
-### Head of department, Riverty, Oslo 2023.9 – today
+### Head of department, Riverty, Oslo 2023.9 – 2024.5
 
 *Riverty is a Fintech company that offers new perspectives on financial solutions.*
 In my department, consisting of fifty software-, QA-, security-engineers and architects. Overall responsibility for recruiting, retaining, and ensuring that my engineers undergo personal development in accordance with the company's overall strategy and the department's wishes and needs. I have also led leaders in my organization. Along with department heads in our other development departments across Europe, I have been responsible for resources working in interdisciplinary product teams. I have, together with my colleagues from our other development departments across Europe, been part of a senior leadership group, responsible for synchronizing related processes.

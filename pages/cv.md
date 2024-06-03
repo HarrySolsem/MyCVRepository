@@ -23,7 +23,7 @@ Epost: harry.solsem@solsem.no
 
 ## ERFARING
 
-### Avdelingsleder, Riverty, Oslo 2023.9 – dd
+### Avdelingsleder, Riverty, Oslo 2023.9 – 2024.5
 
 *Riverty er et FinTech-selskap som tilbyr nye perspektiver på finansielle løsninger.*
 I min avdeling, bestående av femti ingeniører, har jeg har hatt overordnet ansvar for å rekruttere, å beholde og sørge for at mine ingeniører har hatt en personlig utvikling i henhold til firmaets overordnede strategi og avdelingens ønsker og behov. Jeg har også ledet ledere i min organisasjon. Jeg har hatt direkte eller indirekte personalansvar for hele avdelingen. Sammen med avdelingsledere i våre andre utviklingsavdelinger rundt om i Europa har jeg hatt ansvar for ressurser som har jobbet i tverrfaglige produktteam. Jeg har sammen med mine kollegaer fra våre andre utviklingsavdelinger i Europa sittet i en overordnet ledergruppe, med ansvar for synkronisering av tilhørende prosesser.
