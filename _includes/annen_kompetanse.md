@@ -1,6 +1,6 @@
 | Scrum                    | Turbo Pascal          | Microsoft Visual Studio      | Microsoft Foundation Classes |
 | Kanban                   | Assembler             | Microsoft Visual Studio Code | Microsoft.NET                |
-| Lean                     | Ada                   | Sql Management Studio        |                              |
+| Lean                     | Ada                   | Sql Management Studio        | Winforms                     |
 | Prosci Change Management | Delphi                | TeamCity                     |                              |
 | Prince2                  | Basic                 | Octopus Deploy               |                              |
 | Prince2Agile             | Visual Basic          | Team Foundation Server       |                              |
