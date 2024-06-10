@@ -13,7 +13,7 @@ Email: harry.solsem@solsem.no
 
 ## KEY QUALIFICATIONS
 
-**In my role as manager, I emphasize on creating a safe learning environment for my coworkers. With more than thirty years of experience, I make sure that it is allowed to make mistakes, including that everyone also learn from the mistakes made. I am analytical, I value order, pragmatic and solution oriented. I am empathic, I listen, and I make sure my colleagues feel seen and heard.**
+**In my role as manager, I emphasize on creating a safe learning environment for my coworkers. With more than thirty years of experience, I make sure that there exists a culture where it is allowed to make mistakes, including that everyone also learn from the mistakes made. I am analytical, I value order, pragmatic and solution oriented. I am empathic, I listen, and I make sure my colleagues feel seen and heard.**
 
 **I have extensive technical competency from all phases of digital product development using Microsoft technologies. In addition to this I have extended experience working with and coaching teams into using agile methodologies, plus experience in management of technical it-resources in international environments.**
 
