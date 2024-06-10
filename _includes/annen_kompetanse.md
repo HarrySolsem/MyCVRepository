@@ -9,6 +9,6 @@
 |                          | Java                  | Git                          |                              |
 |                          | Javascript            | Github Actions               |                              |
 |                          | C#                    | Github Pages                 |                              |
-|                          | SQL                   |                              |                              |
-|                          | HTML                  |                              |                              |
+|                          | SQL                   | Jira                         |                              |
+|                          | HTML                  | Confluence                   |                              |
 |                          | CSS                   |                              |                              |
