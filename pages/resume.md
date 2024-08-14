@@ -74,6 +74,11 @@ I have held several technical operative positions that has given me extended exp
 
 **I have earned a total of a hundred and thirtythree credits. A bachelors degree is eqvivalent to a hundred and thirty credits.**
 
+
+### School of Management, Coachteam - House of Leadership, 2024.8
+
+Modulebased management course including subjects like ‘Good management’, ‘Selfmanagement’, ‘Team management’, ‘Communication’ and ‘How to handle stress og achievement’
+
 ### Project management, BI Norwegian Business School, 2018.8 - 2019.12
 
 Module based 30 credit study in project management.

@@ -74,6 +74,10 @@ Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen
 
 **Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tretti studiepoeng.**
 
+### Lederskolen, Coachteam - House of Leadership, 2024.8
+
+Modulbasert lederkurs med temaer som ‘God ledelse’, ‘Selvledelse’, ‘Teamledelse’, ‘Kommunikasjon’ og ‘Stressmestring og prestasjon’
+
 ### Prosjektledelse, BI Handelshøyskolen, 2018.8 - 2019.12
 
 Modulbasert 30 studiepoengs-studie innen prosjektledelse.
