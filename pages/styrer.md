@@ -11,7 +11,7 @@ harry.solsem@solsem.no
 Født: 1970
 ```
 
-## NB! Under arbeid!!!
+## NB! CV er under arbeid!!!
 
 
 ## Nøkkelkvalifikasjoner
@@ -24,20 +24,24 @@ Født: 1970
 
 ### Tidspunkt, rolle, firma | organisasjon
 
-NITO Privat
+### Norges Ingeniør og Teknologorganisasjon
+#### 2015.3 - 2023.12, Styremedlem, Privat avtaleområde
+#### ????.? - ????.?, Styremedlem, Vest-Agder avdeling
+#### ????.? - ????.?, Styremedlem, Vest-Agder avdeling
 
-Gjedeland Vel
- - styremedlem og styreleder
+### Rødberg og Gjedeland Vel
+#### 2002.2 - 2003.3, Styreleder
+ 
+### I.L. Giv Akt
+#### ????.? - ????.? Styreleder, Fotballavdeling 
+ 
+### Langhus 1405 Sameie 1
+#### 2021.10 - dd, Styremedlem
 
-I.L. Giv Akt
- - styreleder - fotball
-
-Langhus 1405 Sameie 1
-
-NITO Vest-Agder
-
-Stoffskifteforbundet
- - ansettelsesutvalg ny gensek
+### Stoffskifteforbundet
+#### ????.? - ????.? Styremedlem og nestleder, Bergen og Omegn lokallag
+#### 2020.5 - dd Styremedlem, Forbundsstyret
+ 
 
 
 
