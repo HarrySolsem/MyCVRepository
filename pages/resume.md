@@ -77,7 +77,7 @@ I have held several technical operative positions that has given me extended exp
 
 ### School of Management, Coachteam - House of Leadership, 2024.8
 
-Modulebased management course including subjects like ‘Good management’, ‘Selfmanagement’, ‘Team management’, ‘Communication’ and ‘How to handle stress og achievement’
+Modular leadership course with topics such as ‘Good Leadership’, ‘Self-Leadership’, ‘Team Leadership’, ‘Communication’, and ‘Stress Management and Performance’
 
 ### Project management, BI Norwegian Business School, 2018.8 - 2019.12
 
