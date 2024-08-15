@@ -1,4 +1,4 @@
----
+ï»¿---
 title: CS Styreverv
 custom_css: styrer
 ---
@@ -8,13 +8,13 @@ Personalia
 Navn: Harry Solsem
 +47 916 04 600
 harry.solsem@solsem.no 
-Født: 1970
+FÃ¸dt: 1970
 ```
 
 ## NB! Under arbeid!!!
 
 
-## Nøkkelkvalifikasjoner
+## NÃ¸kkelkvalifikasjoner
 
 ** Lang relevant erfaring fra roller som styreleder og styremedlem i flere forskjellige firmaer og organisasjoner**
 
