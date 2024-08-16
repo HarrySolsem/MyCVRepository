@@ -1,0 +1,25 @@
+/* styles.css */
+/* Apply styles to the table */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+/* Apply styles to table cells */
+th, td {
+    border: 1px solid #c8e6c9;
+    padding: 8px;
+    text-align: left;
+    color: #3c5769;
+}
+
+/* Apply alternate background color to table rows */
+tr:nth-child(even) {
+    background-color: #c1c1c3;
+}
+
+/* Apply styles to table header cells */
+th {
+    background-color: #65af72;
+}

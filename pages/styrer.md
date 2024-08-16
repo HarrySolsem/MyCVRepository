@@ -13,14 +13,14 @@ Født: 1970
 
 ## Nøkkelkvalifikasjoner
 
-** Lang relevant erfaring fra roller som styreleder og styremedlem i flere forskjellige firmaer og organisasjoner**
+**Lang relevant erfaring fra roller som styreleder og styremedlem i flere forskjellige firmaer og organisasjoner**
 
 ***
 
 ## Styreverv
 
 | Tidspunkt         | Firma/Organisasjon        | Organisasjonsledd        | Rolle       | 
-| :----:            | :----                     | :----                    | :----       |
+| :----             | :----                     | :----                    | :----       |
 | 2015.3  - 2024.3  | NITO                      | Privat avtaleområde      | Styremedlem |
 | 2017.3  - 2017.6  | NITO                      | Avdeling Vest-Agder      | Styremedlem |
 | 2012-3  - 2012.6  | NITO                      | Avdeling Vest-Agder      | Styremedlem |
