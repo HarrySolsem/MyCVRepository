@@ -29,4 +29,4 @@ custom_css: contact
         }
 </style>
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=harrysolsem" target="_blank">Follow on LinkedIn</a>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=harrysolsem" target="_blank">Følg meg på LinkedIn</a>
