@@ -122,6 +122,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 ***
 
 ### ANNEN KOMPETANSE
+
 | Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    |
 | :----                    | :----               | :----                        | :----                        |
 {% include annen_kompetanse.md %}
