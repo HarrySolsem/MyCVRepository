@@ -109,8 +109,6 @@ Linje for administrativ databehandling, 120 studiepoeng
 
 * Forbundsstyremedlem, Stoffskifteforbundet, 2020 – DD
 * Styremedlem, Langhus 1405 Sameie1, 2021 – DD
-* Styremedlem i nasjonalt tariffutvalg, NITO, 2014 – 2023
-* Annen styrekompetanse fra idrettslag og velforening
 
 ***
 

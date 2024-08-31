@@ -87,7 +87,7 @@ Module based 30 credit study in project management.
 
 Bachelor level classes in various topics in software design, 33 credits.
 
-### Høyskolekandidat, Norges Høyskole for Informasjonsteknologi, 1992.8 - 1994.5
+### College, Norges Høyskole for Informasjonsteknologi, 1992.8 - 1994.5
 
 Software design and related subjects, 120 credits
 
@@ -110,8 +110,6 @@ Software design and related subjects, 120 credits
 
 * Member of the board, Norwegian Thyroid Organization, 2020 – td
 * Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
-* Member of national tariff committee, NITO, 2014 – 2023
-* Serving as board member on boards on sportsclub and house ownership organizations
 
 ***
 
