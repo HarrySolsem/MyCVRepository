@@ -121,7 +121,7 @@ Software design and related subjects, 120 credits
 * English, C2 level
 
 ***
-
+<p id="annenkompetanse"></p>
 ### OTHER COMPETENCIES
 
 | Methodologies            | Programming languages | Tools                        | Frameworks                   |
