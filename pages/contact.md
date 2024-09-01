@@ -7,7 +7,7 @@ custom_css: contact
 
 ***
 
-## Epost <harry.solsem@solsem.no> eller tlf [+47 916 04 600]({{'+47 916 04 600'}})
+## Epost <harry.solsem@solsem.no> eller tlf [+47 916 04 600]({{'tel:+47 916 04 600'}})
 
 ***
 
