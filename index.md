@@ -2,7 +2,7 @@
 title: CV Repository
 ---
 
-## Under finner du linker til mine cv.
+## Her er mine CV-er.
 
 ***
 
