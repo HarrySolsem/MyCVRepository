@@ -7,13 +7,13 @@ custom_css: contact
 
 ***
 
-## Epost <harry.solsem@solsem.no> eller tlf +47 916 04 600
+## Epost <harry.solsem@solsem.no> eller tlf [+47 916 04 600]({{'+47 916 04 600'}})
 
 ***
 
 <style>
     .libutton {
-        display: flex;
+        display: flex; ({{' display: flex'}})
         flex-direction: column;
         justify-content: center;
         padding: 7px;
