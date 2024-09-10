@@ -12,4 +12,4 @@
 |                          | SQL                   | Jira                         |                              |
 |                          | HTML                  | Confluence                   |                              |
 |                          | CSS                   | Docker                       |                              |
-|                          |                       | Service-Now                  |                              |
+|                          |                       | ServiceNow                   |                              |
