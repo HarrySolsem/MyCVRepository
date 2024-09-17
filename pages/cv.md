@@ -72,8 +72,6 @@ Jeg har hatt flere tekniske operative stillinger som har gitt meg erfaring innen
 
 ## UTDANNELSE
 
-**Totalt opptjent hundre og trettitre studiepoeng. En bachelorgrad tilsvarer hundre og tretti studiepoeng.**
-
 ### Lederskolen, Coachteam - House of Leadership, 2024.8
 
 Modulbasert lederkurs med temaer som ‘God ledelse’, ‘Selvledelse’, ‘Teamledelse’, ‘Kommunikasjon’ og ‘Stressmestring og prestasjon’

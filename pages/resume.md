@@ -72,9 +72,6 @@ I have held several technical operative positions that has given me extended exp
 
 ## EDUCATION
 
-**I have earned a total of a hundred and thirtythree credits. A bachelors degree is eqvivalent to a hundred and thirty credits.**
-
-
 ### School of Management, Coachteam - House of Leadership, 2024.8
 
 Modular leadership course with topics such as ‘Good Leadership’, ‘Self-Leadership’, ‘Team Leadership’, ‘Communication’, and ‘Stress Management and Performance’
