@@ -5,7 +5,7 @@
 | Prince2                  | Basic                 | Octopus Deploy               | Microsoft Entity Framework   |
 | Prince2Agile             | Visual Basic          | Team Foundation Server       |                              |
 | ITIL v2                  | C++                   | Fiddler                      |                              |
-|                          | C                     | Postman                      |                              |
+| TOGAF                    | C                     | Postman                      |                              |
 |                          | Java                  | Git                          |                              |
 |                          | Javascript            | Github Actions               |                              |
 |                          | C#                    | Github Pages                 |                              |
