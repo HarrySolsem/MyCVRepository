@@ -13,11 +13,11 @@ Epost: harry.solsem@solsem.no
 
 ## NØKKELKVALIFIKASJONER
 
-**I min rolle som leder legger jeg vekt på å skape et trygt læremiljø for mine medarbeidere. Med tretti års erfaring, sørger jeg for at det til eksisterer en kultur hvor det er lov å feile, og jeg passer på at det tas lærdom av feilene som er gjort. Jeg er analytisk, opptatt av orden, pragmatisk og løsningsorientert. Jeg motiveres av å legge til rette for at mine kollegaer og jeg skal lykkes i å skape resultater sammen. Jeg er empatisk, lyttende og sørger for at mine kollegaer føler seg sett og hørt.**
+**Som leder med tretti års erfaring, legger jeg stor vekt på å skape et trygt læringsmiljø for mine medarbeidere. Jeg har bygget sterke team der det er rom for å feile og lære, og jeg oppmuntrer til en kultur der hver erfaring blir en mulighet for vekst. Min analytiske, systematiske, pragmatiske og løsningsorienterte tilnærming sikrer at vi alltid jobber mot felles mål og oppnår resultater sammen.**
 
-**Jeg har dyp teknisk kompetanse fra alle faser innen digital produktutvikling ved hjelp av Microsoft teknologier. I tillegg har jeg lang erfaring fra smidige metodikker, og har realkompetanse fra å lede tekniske it-ressurser i internasjonale miljøer.**
+**Jeg har omfattende teknisk kompetanse innen alle faser av digital produktutvikling med Microsoft-teknologier og lang erfaring med smidige metodikker. Som leder av tekniske IT-ressurser i internasjonale miljøer har jeg utviklet mine evner til å motivere og veilede team gjennom komplekse prosjekter, samtidig som jeg har oppnådd høy kvalitet i leveransene.**
 
-**Ved å ansette meg vil dere få en medarbeider med lang erfaring som leverer stabil arbeidskraft og alltid er på jakt etter forbedringspotensialer. Jeg trives i lederroller, hvor jeg på en naturlig måte tar ansvar for leveranse av kvalitet og resultat.**  
+**Med min solide ledererfaring vil dere få en engasjert medarbeider som ikke bare leverer stabil arbeidskraft, men som også kontinuerlig søker forbedringsmuligheter. Jeg trives i lederroller, hvor jeg naturlig påtar meg ansvar for kvalitet, resultater og medarbeiderutvikling, og jeg er alltid fokusert på å bygge et inkluderende, inspirerende og høytytende arbeidsmiljø.**
 
 ***
 
