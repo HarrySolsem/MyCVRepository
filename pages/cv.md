@@ -25,7 +25,7 @@ Epost: harry.solsem@solsem.no
 
 ### Pro bono Prosjektleder, Prosperastiftelsen, Oslo 2024.10 – dd
 
-*Norsk organisasjon som består av et nettverk av frivillige konsulenter. Disse konsulentene jobber på kveldstid for å hjelpe ideelle organisasjoner og sosiale entreprenører med å øke sin samfunnsnytte.*
+*Norsk organisasjon som består av et nettverk av frivillige konsulenter. Vi jobber på kveldstid for å hjelpe ideelle organisasjoner og sosiale entreprenører med å øke sin samfunnsnytte.*
 Som pro bono prosjektleder leder jeg et prosjektteam bestående av seks frivillige konsulenter. Sammen samarbeider vi med ideelle organisasjoner for å øke deres samfunnsnytte. Mitt ansvar er å få teamet til å jobbe optimalt sammen og sørge for fremdrift, samt å ha dialog med prosjekteier.
 
 
