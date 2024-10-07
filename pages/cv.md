@@ -98,7 +98,7 @@ Linje for administrativ databehandling, 120 studiepoeng
 
 ## SERTIFISERINGER
 
-* TOGAF Enterprise Architecture Practitioner , The Open Group, 2024
+* TOGAF Enterprise Architecture Practitioner, The Open Group, 2024
 * Prosci Change Management Practitioner, 2024
 * Scrum Product Owner, SCPO AgileLean House AS, 2021
 * Prince2Agile Foundation, Holte Academy, 2019
