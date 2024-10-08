@@ -112,6 +112,7 @@ Software design and related subjects, 120 credits
 
 ## ELECTED POSITIONS
 
+* Manager, Langhus IL Tabletennis, 2024.10 - td
 * Member of the board, Norwegian Thyroid Organization, 2020 – td
 * Member of the board, Langhus 1405 Co-ownership Apartments, 2021 – td
 
