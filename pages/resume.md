@@ -120,7 +120,6 @@ Software design and related subjects, 120 credits
 
 ## LANGUAGES
 
-* Norwegian, native language
 * English, C2 level
 
 ***

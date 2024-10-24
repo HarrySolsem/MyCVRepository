@@ -120,7 +120,6 @@ Linje for administrativ databehandling, 120 studiepoeng
 
 ## SPRÅKKUNNSKAPER
 
-* Norsk, morsmål
 * Engelsk, flytende skriftlig og muntlig
 
 ***
