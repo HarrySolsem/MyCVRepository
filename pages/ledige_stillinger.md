@@ -22,3 +22,4 @@
 | Ruter          |	[Ruter](https://candidate.webcruiter.com/nb-no/home/companyadverts?link_source_id=0&companylock=986500#search) |
 | EnTur          |	[EnTur](https://om.entur.no/jobb-i-entur/) |
 | NVE            |	[NVE](https://www.nve.no/om-nve/jobb-i-nve/) |
+| Equinor        |  https://careers.peopleclick.eu.com/careerscp/client_statoil/external/en_US/search.do  |
